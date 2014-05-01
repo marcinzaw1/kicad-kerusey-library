@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0  Date: 2013-05-15 20:44:13
+#
+$CMP CNY17-1
+D CNY17-1, DIP6, DC Optocoupler Base Connected, Vce 70V, CTR 40-80%, Viso 5000V (RMS)
+K NPN DC Optocoupler Base Connected
+F http://www.vishay.com/docs/83606/cny17.pdf
+$ENDCMP
+#
+$CMP CNY17-2
+D CNY17-2, DIP6, DC Optocoupler Base Connected, Vce 70V, CTR 63-125%, Viso 5000V (RMS)
+K NPN DC Optocoupler Base Connected
+F http://www.vishay.com/docs/83606/cny17.pdf
+$ENDCMP
+#
+$CMP CNY17-3
+D CNY17-3, DIP6, DC Optocoupler Base Connected, Vce 70V, CTR 100-200%, Viso 5000V (RMS)
+K NPN DC Optocoupler Base Connected
+F http://www.vishay.com/docs/83606/cny17.pdf
+$ENDCMP
+#
+$CMP CNY17-4
+D CNY17-4, DIP6, DC Optocoupler Base Connected, Vce 70V, CTR 160-320%, Viso 5000V (RMS)
+K NPN DC Optocoupler Base Connected
+F http://www.vishay.com/docs/83606/cny17.pdf
+$ENDCMP
+#
+$CMP IL300
+D IL300, Isolated Linear Photocoupler, High Gain, Wideband, DIP8/SMD8
+K Isolated Linear Photocoupler
+F http://www.vishay.com/docs/83622/il300.pdf
+$ENDCMP
+#
+#End Doc Library

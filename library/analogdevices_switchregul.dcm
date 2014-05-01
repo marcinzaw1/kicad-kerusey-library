@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP1108AN
+D ADP1108AN, Adjustable Micropower Switching Regulator, DIP8
+K Micropower DC-DC Converter
+F http://www.analog.com/static/imported-files/data_sheets/ADP1108.pdf
+$ENDCMP
+#
+$CMP ADP1108AN-12
+D ADP1108AN-12, Fixed 12V Micropower Switching Regulator, DIP8
+K Micropower DC-DC Converter 12V
+F http://www.analog.com/static/imported-files/data_sheets/ADP1108.pdf
+$ENDCMP
+#
+$CMP ADP1108AN-5
+D ADP1108AN-5, Fixed 5V Micropower Switching Regulator, DIP8
+K Micropower DC-DC Converter 5V
+F http://www.analog.com/static/imported-files/data_sheets/ADP1108.pdf
+$ENDCMP
+#
+$CMP ADP1108AN-3.3
+D ADP1108AN-3.3, Fixed 3.3V Micropower Switching Regulator, DIP8
+K Micropower DC-DC Converter 5V
+F http://www.analog.com/static/imported-files/data_sheets/ADP1108.pdf
+$ENDCMP
+#
+$CMP ADP1108AR
+D ADP1108AR, Adjustable Micropower Switching Regulator, SO8
+K Micropower DC-DC Converter
+F http://www.analog.com/static/imported-files/data_sheets/ADP1108.pdf
+$ENDCMP
+#
+$CMP ADP1108AR-12
+D ADP1108AR-12, Fixed 12V Micropower Switching Regulator, SO8
+K Micropower DC-DC Converter 12V
+F http://www.analog.com/static/imported-files/data_sheets/ADP1108.pdf
+$ENDCMP
+#
+$CMP ADP1108AR-5
+D ADP1108AR-5, Fixed 5V Micropower Switching Regulator, SO8
+K Micropower DC-DC Converter 5V
+F http://www.analog.com/static/imported-files/data_sheets/ADP1108.pdf
+$ENDCMP
+#
+$CMP ADP1108AR-3.3
+D ADP1108AR-3.3, Fixed 3.3V Micropower Switching Regulator, SO8
+K Micropower DC-DC Converter 5V
+F http://www.analog.com/static/imported-files/data_sheets/ADP1108.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DA56-11
+D DA56-11xxxx, Dual Led Display 7seg, Common Anode
+$ENDCMP
+#
+$CMP SA03-11
+D SA03-11xxxx, Single Led Display 7seg, Common Anode
+$ENDCMP
+#
+$CMP SA04-11
+D SA04-11xxxx, Single Led Display 7seg, Common Anode
+$ENDCMP
+#
+$CMP SA15-11
+D SA15-11xxxx, Single Led Display 7seg, Common Anode
+$ENDCMP
+#
+$CMP SC03-11
+D SA03-11xxxx, Single Led Display 7seg, Common Cathode
+$ENDCMP
+#
+$CMP SC04-11
+D SA04-11xxxx, Single Led Display 7seg, Common Anode
+$ENDCMP
+#
+$CMP TA07-11XWA
+D 18mm (0,7") Single Color LED 7x5 Dotmatrix Display, Common Anode
+K LED DOTMATRIX 7x5 ANODE
+F kingbright/TA_TC_07-11.pdf
+$ENDCMP
+#
+$CMP TC07-11XWA
+D 18mm (0,7") Single Color LED 7x5 Dotmatrix Display, Common Cathode
+K LED DOTMATRIX 7x5 CATHODE
+F kingbright/TA_TC_07-11.pdf
+$ENDCMP
+#
+#End Doc Library
