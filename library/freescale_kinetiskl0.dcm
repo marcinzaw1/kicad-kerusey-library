@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MKL04Z16VLC4
+D MKL04Z16VLC4, 32pin LQFP, 16KB Flash, 2K RAM, ARM Cortex-M0+
+K Kinetis KL04 ARM Cortex-M0+ Microcontroller 
+F http://cache.freescale.com/files/32bit/doc/data_sheet/KL04P48M48SF1.pdf
+$ENDCMP
+#
+$CMP MKL04Z32VLC4
+D MKL04Z32VLC4, 32pin LQFP, 32KB Flash, 4K RAM, ARM Cortex-M0+
+K Kinetis KL04 ARM Cortex-M0+ Microcontroller 
+F http://cache.freescale.com/files/32bit/doc/data_sheet/KL04P48M48SF1.pdf
+$ENDCMP
+#
+$CMP MKL04Z8VLC4
+D MKL04Z8VLC4, 32pin LQFP, 8KB Flash, 1K RAM, ARM Cortex-M0+
+K Kinetis KL04 ARM Cortex-M0+ Microcontroller 
+F http://cache.freescale.com/files/32bit/doc/data_sheet/KL04P48M48SF1.pdf
+$ENDCMP
+#
+#End Doc Library
