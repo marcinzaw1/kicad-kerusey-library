@@ -30,6 +30,12 @@ K Actel ACT2 FPGA
 F http://www.actel.com/documents/ACT2_DS.pdf
 $ENDCMP
 #
+$CMP A3P250-PQG208
+D A3P250-PQG208, Actel ProASIC3 Flash Family FPGAs, 2048MCB, 208pin QFP
+K ProASIC3 ACTEL FLASH
+F http://www.microsemi.com/document-portal/doc_download/130704-proasic3-flash-family-fpgas-datasheet
+$ENDCMP
+#
 $CMP A3P250-VQG100
 D A3P250-VQG100, Actel ProASIC3 Flash Family FPGAs, 2048 MCLB, 100pin QFP100
 K ProASIC3 ACTEL FLASH
