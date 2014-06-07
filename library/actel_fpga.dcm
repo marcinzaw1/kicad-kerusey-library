@@ -48,6 +48,12 @@ K ProASIC3 ACTEL FLASH
 F http://www.actel.com/documents/PA3_DS.pdf
 $ENDCMP
 #
+$CMP A3P400-PQG208
+D A3P400-PQG208, Actel ProASIC3 Flash Family FPGAs, 400k Gates, 208pin QFP
+K ProASIC3 ACTEL FLASH
+F http://www.actel.com/documents/PA3_DS.pdf
+$ENDCMP
+#
 $CMP A40MX02-PL44
 D A40MX02, Actel 40MX FPGA, 3000 gates, PLCC44
 K Actel 40MX FPGA
