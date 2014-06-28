@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2551-I/P
+D MCP2551-I/P, High-Speed CAN Transceiver, PDIP8
+K High-Speed CAN Transceiver
+F http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf
+$ENDCMP
+#
+$CMP MCP2551-I/SN
+D MCP2551-I/SN, High-Speed CAN Transceiver, SO8
+K High-Speed CAN Transceiver
+F http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf
+$ENDCMP
+#
+$CMP TMC809
+D Microcontroller reset monitor
+F microchip/TCM809_reset_controller.pdf
+$ENDCMP
+#
+#End Doc Library

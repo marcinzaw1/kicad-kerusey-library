@@ -1,0 +1,30 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CH376T
+D CH376T, File Management USB Flash Card SD Interface, TSSOP20
+K File Management USB Flash Card SD Interface
+F http://iteadstudio.com/store/images/produce/Platform/FPGA/BlackGold/CH376DS1.PDF
+$ENDCMP
+#
+$CMP EL7242C
+D Translateur TTL->VMOS. Double driver VMOS
+$ENDCMP
+#
+$CMP IR2110
+D VMOS Driver
+K VMOS
+F ir/ir2110.pdf
+$ENDCMP
+#
+$CMP LTC2861
+D 20Mbps RS485 transceiver with tntegrated switchable termination
+K RS485
+F linear-tec\ltc2859-2861.pdf
+$ENDCMP
+#
+$CMP MAX232
+D Driver de Ligne RS232
+K RS232
+$ENDCMP
+#
+#End Doc Library

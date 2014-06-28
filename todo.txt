@@ -17,7 +17,7 @@
  graphic.lib		
  hc11.lib
  intel.lib
- interface.lib						yes
+ interface.lib		!!				yes
  linear.lib
  memory.lib			in progress
  msp430.lib		!!!!!!	base finished

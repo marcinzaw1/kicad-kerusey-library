@@ -1890,6 +1890,30 @@ K AVR 8bit Microcontroller tinyAVR
 F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
 $ENDCMP
 #
+$CMP ATTINY828-AU
+D ATTINY828, TQFP32, 8k Flash, 256B SRAM, 512B EEPROM
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/Images/doc8371.pdf
+$ENDCMP
+#
+$CMP ATTINY828-MU
+D ATTINY828, MLF32, 8k Flash, 256B SRAM, 512B EEPROM
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/Images/doc8371.pdf
+$ENDCMP
+#
+$CMP ATTINY828R-AU
+D ATTINY828R, TQFP32, 8k Flash, 256B SRAM, 512B EEPROM, Highest Accuracy
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/Images/doc8371.pdf
+$ENDCMP
+#
+$CMP ATTINY828R-MU
+D ATTINY828R, MLF32, 8k Flash, 256B SRAM, 512B EEPROM, Highest Accuracy
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/Images/doc8371.pdf
+$ENDCMP
+#
 $CMP ATTINY84-M
 D ATTINY84, QFN/MLF20, 8k Flash, 512B SRAM, 512B EEPROM, dW
 K AVR 8bit Microcontroller tinyAVR
