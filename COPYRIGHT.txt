@@ -20,5 +20,6 @@
     Some symbols were created based upon work of other library contributors.
     Copyright (C) 2014  KiCad Library Commiters
     Copyright (C) 2014  Žiga Stegu
-    Copyright (c) 2013  Jason Work
+	Copyright (C) 2014  ObKo
+    Copyright (C) 2013  Jason Work
 	
