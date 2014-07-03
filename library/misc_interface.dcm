@@ -22,9 +22,4 @@ K RS485
 F linear-tec\ltc2859-2861.pdf
 $ENDCMP
 #
-$CMP MAX232
-D Driver de Ligne RS232
-K RS232
-$ENDCMP
-#
 #End Doc Library
