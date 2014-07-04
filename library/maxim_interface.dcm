@@ -12,6 +12,18 @@ K EIA/TIA-232E LEVEL SHIFTER 120kB/s ULP LOW POWER
 F http://pdfserv.maximintegrated.com/en/ds/MAX220-MAX249.pdf
 $ENDCMP
 #
+$CMP MAX222
+D MAX222, Level Shifter for RS232 (EIA/TIA-232E), 200kB/s Throughput, DIP18/SO18
+K EIA/TIA-232E LEVEL SHIFTER 200kB/s
+F http://pdfserv.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX225CWI
+D MAX225, Level Shifter for RS232 (EIA/TIA-232E), 120kB/s Throughput, SO28
+K EIA/TIA-232E LEVEL SHIFTER 120kB/s
+F http://pdfserv.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
 $CMP MAX232
 D MAX232, Level Shifter for RS232 (EIA/TIA-232E), 120kB/s Throughput, DIP16/SO16
 K EIA/TIA-232E LEVEL SHIFTER 120kB/s
@@ -20,6 +32,18 @@ $ENDCMP
 #
 $CMP MAX232A
 D MAX232A, Level Shifter for RS232 (EIA/TIA-232E), 200kB/s Throughput, DIP16/SO16
+K EIA/TIA-232E LEVEL SHIFTER 200kB/s
+F http://pdfserv.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX242
+D MAX242, Level Shifter for RS232 (EIA/TIA-232E), 200kB/s Throughput, DIP18/SO18
+K EIA/TIA-232E LEVEL SHIFTER 200kB/s
+F http://pdfserv.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX242CAP
+D MAX242CAP, Level Shifter for RS232 (EIA/TIA-232E), 200kB/s Throughput, SSOP20
 K EIA/TIA-232E LEVEL SHIFTER 200kB/s
 F http://pdfserv.maximintegrated.com/en/ds/MAX220-MAX249.pdf
 $ENDCMP
