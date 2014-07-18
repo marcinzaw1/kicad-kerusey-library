@@ -1,32 +1,122 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP AD5280
-D ANALOG DEVICES/TSSOP14
+$CMP AD5280BRU20
+D AD5280BRU20, I2C Single +15/+-5V Digital Potentiometer, 256 Position, 20k, TSSOP14
+K Digital Potentiometer 20k I2C 256 Position
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
 $ENDCMP
 #
-$CMP AD5282
-D ANALOG DEVICES/TSSOP14
+$CMP AD5280BRU200
+D AD5280BRU200, I2C Single +15/+-5V Digital Potentiometer, 256 Position, 200k, TSSOP14
+K Digital Potentiometer 200k I2C 256 Position
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
 $ENDCMP
 #
-$CMP AD5282_ABC
-D TSSOP16
+$CMP AD5280BRU50
+D AD5280BRU50, I2C Single +15/+-5V Digital Potentiometer, 256 Position, 50k, TSSOP14
+K Digital Potentiometer 50k I2C 256 Position
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
 $ENDCMP
 #
-$CMP AD5290
-D Digital Potentiometer  256 steps   (SPI control) +- 15V
-K R POT
-F analog-dev/AD5290.pdf
+$CMP AD5280BRUZ20
+D AD5280BRUZ20, I2C Single +15/+-5V Digital Potentiometer, 256 Position, 20k, RoHS, TSSOP14
+K Digital Potentiometer 20k I2C 256 Position RoHS
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
 $ENDCMP
 #
-$CMP AD5293
-D Digital potentiometer 1024 pos (SPI)
-K R POT
-F analog-dev/AD5293.pdf
+$CMP AD5280BRUZ200
+D AD5280BRUZ200, I2C Single +15/+-5V Digital Potentiometer, 256 Position, 200k, RoHS, TSSOP14
+K Digital Potentiometer 200k I2C 256 Position RoHS
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
 $ENDCMP
 #
-$CMP AD9951
-D AD9951, 14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48
+$CMP AD5280BRUZ50
+D AD5280BRUZ50, I2C Single +15/+-5V Digital Potentiometer, 256 Position, 50k, RoHS, TSSOP14
+K Digital Potentiometer 50k I2C 256 Position RoHS
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
+$ENDCMP
+#
+$CMP AD5282BRU20
+D AD5282BRU20, I2C Dual +15/+-5V Digital Potentiometer, 256 Position, 20k, TSSOP16
+K Digital Potentiometer 20k I2C 256 Position
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
+$ENDCMP
+#
+$CMP AD5282BRU200
+D AD5282BRU200, I2C Dual +15/+-5V Digital Potentiometer, 256 Position, 200k, TSSOP16
+K Digital Potentiometer 200k I2C 256 Position
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
+$ENDCMP
+#
+$CMP AD5282BRU50
+D AD5282BRU50, I2C Dual +15/+-5V Digital Potentiometer, 256 Position, 50k, TSSOP16
+K Digital Potentiometer 50k I2C 256 Position
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
+$ENDCMP
+#
+$CMP AD5282BRUZ20
+D AD5282BRUZ20, I2C Dual +15/+-5V Digital Potentiometer, 256 Position, 20k, RoHS, TSSOP16
+K Digital Potentiometer 20k I2C 256 Position RoHS
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
+$ENDCMP
+#
+$CMP AD5282BRUZ200
+D AD5282BRUZ200, I2C Dual +15/+-5V Digital Potentiometer, 256 Position, 200k, RoHS, TSSOP16
+K Digital Potentiometer 200k I2C 256 Position RoHS
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
+$ENDCMP
+#
+$CMP AD5282BRUZ50
+D AD5282BRUZ50, I2C Dual +15/+-5V Digital Potentiometer, 256 Position, 50k, RoHS, TSSOP16
+K Digital Potentiometer 50k I2C 256 Position RoHS
+F http://www.analog.com/static/imported-files/data_sheets/AD5280_5282.pdf
+$ENDCMP
+#
+$CMP AD5290YRMZ10
+D AD5290YRMZ10, SPI Single Digital Potentiometer, 256 Positions, 10k, +-15V, MSOP10
+K Single Potentiometer 10k SPI
+F http://www.analog.com/static/imported-files/data_sheets/AD5290.pdf
+$ENDCMP
+#
+$CMP AD5290YRMZ100
+D AD5290YRMZ100, SPI Single Digital Potentiometer, 256 Positions, 100k, +-15V, MSOP10
+K Single Potentiometer 100k SPI
+F http://www.analog.com/static/imported-files/data_sheets/AD5290.pdf
+$ENDCMP
+#
+$CMP AD5290YRMZ50
+D AD5290YRMZ50, SPI Single Digital Potentiometer, 256 Positions, 50k, +-15V, MSOP10
+K Single Potentiometer 50k SPI
+F http://www.analog.com/static/imported-files/data_sheets/AD5290.pdf
+$ENDCMP
+#
+$CMP AD5293BRUZ-100
+D AD5293BRUZ-100, SPI Single Digital Potentiometer, 1024 Position, 100k, TSSOP14
+K SPI Digital Potentiometr 100k
+F http://www.analog.com/static/imported-files/data_sheets/AD5293.pdf
+$ENDCMP
+#
+$CMP AD5293BRUZ-20
+D AD5293BRUZ-20, SPI Single Digital Potentiometer, 1024 Position, 20k, TSSOP14
+K SPI Digital Potentiometr 20k
+F http://www.analog.com/static/imported-files/data_sheets/AD5293.pdf
+$ENDCMP
+#
+$CMP AD5293BRUZ-50
+D AD5293BRUZ-50, SPI Single Digital Potentiometer, 1024 Position, 50k, TSSOP14
+K SPI Digital Potentiometr 50k
+F http://www.analog.com/static/imported-files/data_sheets/AD5293.pdf
+$ENDCMP
+#
+$CMP AD9951YSV
+D AD9951YSV, 14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48
 K Direct Digital Synthesizer DDS
+F http://www.analog.com/static/imported-files/data_sheets/AD9951.pdf
+$ENDCMP
+#
+$CMP AD9951YSVZ
+D AD9951YSVZ, 14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, RoHS, TQFP48
+K Direct Digital Synthesizer DDS RoHS
 F http://www.analog.com/static/imported-files/data_sheets/AD9951.pdf
 $ENDCMP
 #
