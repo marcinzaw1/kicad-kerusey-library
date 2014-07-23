@@ -18,6 +18,36 @@ K Voltage Regulator 3A Positive LDO Disable Pin
 F http://www.fairchildsemi.com/ds/KA/KA378R33.pdf
 $ENDCMP
 #
+$CMP KA79M05RTF
+D KA79M05RTF, Negative 0.5A 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)
+K Voltage Regulator 0.5A Negative
+F http://www.fairchildsemi.com/ds/LM/LM79M05.pdf
+$ENDCMP
+#
+$CMP KA79M05RTM
+D KA79M05RTM, Negative 0.5A 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)
+K Voltage Regulator 0.5A Negative
+F http://www.fairchildsemi.com/ds/LM/LM79M05.pdf
+$ENDCMP
+#
+$CMP KA79M05TU
+D KA79M05TU, Negative 0.5A 35V Linear Regulator, Fixed Output 5V, TO-220
+K Voltage Regulator 0.5A Negative
+F http://www.fairchildsemi.com/ds/LM/LM79M05.pdf
+$ENDCMP
+#
+$CMP KA79M12RTF
+D KA79M12RTF, Negative 0.5A 35V Linear Regulator, Fixed Output 12V, TO-252 (D-PAK)
+K Voltage Regulator 0.5A Negative
+F http://www.fairchildsemi.com/ds/LM/LM79M05.pdf
+$ENDCMP
+#
+$CMP KA79M12RTM
+D KA79M12RTM, Negative 0.5A 35V Linear Regulator, Fixed Output 12V, TO-252 (D-PAK)
+K Voltage Regulator 0.5A Negative
+F http://www.fairchildsemi.com/ds/LM/LM79M05.pdf
+$ENDCMP
+#
 $CMP LM350T
 D LM350T, 3A 33V Adjustable Linear Regulator, TO-220
 K Adjustable Voltage Regulator 3A Positive
