@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IR2110-1PbF
+D IR2110-1Pbf, High and Low Side Driver, Voff 500V, 10ns match, PDIP-14 w/o pin 4
+K High Low Side MOSFET Driver
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
+$ENDCMP
+#
+$CMP IR2110-2PbF
+D IR2110-2Pbf, High and Low Side Driver, Voff 500V, 10ns match, PDIP-16
+K High Low Side MOSFET Driver
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
+$ENDCMP
+#
+$CMP IR2110PbF
+D IR2110Pbf, High and Low Side Driver, Voff 500V, 10ns match, PDIP-14
+K High Low Side MOSFET Driver
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
+$ENDCMP
+#
+$CMP IR2110SPbF
+D IR2110SPbF, High and Low Side Driver, Voff 500V, 10ns match, SOIC16 Wide
+K High Low Side MOSFET Driver
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
+$ENDCMP
+#
+$CMP IR2113-1PbF
+D IR2113-1Pbf, High and Low Side Driver, Voff 600V, 20ns match, PDIP-14 w/o pin 4
+K High Low Side MOSFET Driver
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
+$ENDCMP
+#
+$CMP IR2113-2PbF
+D IR2113-2Pbf, High and Low Side Driver, Voff 600V, 20ns match, PDIP-16 w/o pins 4&5
+K High Low Side MOSFET Driver
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
+$ENDCMP
+#
+$CMP IR2113PbF
+D IR2113Pbf, High and Low Side Driver, Voff 600V, 20ns match, PDIP-14
+K High Low Side MOSFET Driver
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
+$ENDCMP
+#
+$CMP IR2113SPbF
+D IR2113SPbF, High and Low Side Driver, Voff 600V, 20ns match, SOIC16 Wide
+K High Low Side MOSFET Driver
+F http://www.irf.com/product-info/datasheets/data/ir2110.pdf
+$ENDCMP
+#
+#End Doc Library
