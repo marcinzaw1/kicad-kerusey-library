@@ -184,4 +184,40 @@ K Adjustable 3A 52KHz Buck DC/DC
 F http://www.dianyuan.com/bbs/u/54/437861181916300.pdf
 $ENDCMP
 #
+$CMP MIC2177-3.3BWM
+D MIC2177-3.3BWM, 2.5A 3.3V Step-Down Swtching Regulator (Synchronous) , SOIC20 (Wide)
+K 2.5A 3.3V Synchronus Switching Regulator
+F http://www.micrel.com/_PDF/mic2177.pdf
+$ENDCMP
+#
+$CMP MIC2177-3.3YWM
+D MIC2177-3.3YWM, 2.5A 3.3V Step-Down Swtching Regulator (Synchronous) , SOIC20 (Wide)
+K 2.5A 3.3V Synchronus Switching Regulator
+F http://www.micrel.com/_PDF/mic2177.pdf
+$ENDCMP
+#
+$CMP MIC2177-5.0BWM
+D MIC2177-5.0BWM, 2.5A 5V Step-Down Swtching Regulator (Synchronous) , SOIC20 (Wide)
+K 2.5A 5V Synchronus Switching Regulator
+F http://www.micrel.com/_PDF/mic2177.pdf
+$ENDCMP
+#
+$CMP MIC2177BWM
+D MIC2177BWM, 2.5A Adjustable Step-Down Swtching Regulator (Synchronous) , SOIC20 (Wide)
+K 2.5A Adjustable Synchronus Switching Regulator
+F http://www.micrel.com/_PDF/mic2177.pdf
+$ENDCMP
+#
+$CMP MIC4690BM
+D MIC4690BM, 500kHz 1A SuperSwitcher Adjustable Buck Regulator, SO8
+K Buck Regulator 500kHz 1A Adjustable
+F http://www.micrel.com/_PDF/mic4690.pdf
+$ENDCMP
+#
+$CMP MIC4690YM
+D MIC4690YM, 500kHz 1A SuperSwitcher Adjustable Buck Regulator, SO8 Lead Free
+K Buck Regulator 500kHz 1A Adjustable
+F http://www.micrel.com/_PDF/mic4690.pdf
+$ENDCMP
+#
 #End Doc Library
