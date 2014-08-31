@@ -132,6 +132,12 @@ K Hight Voltage Step-Down Regulator 3A
 F http://cds.linear.com/docs/en/datasheet/34301fa.pdf
 $ENDCMP
 #
+$CMP LT3439EFE
+D LT3439EFE, Push-Pull DC/DC 1A Transformer Driver, Low Noise, TSSOP-16
+K Push-Pull Transformer Driver 1A
+F http://cds.linear.com/docs/en/datasheet/3439fs.pdf
+$ENDCMP
+#
 $CMP LT3472EDD
 D LT3472EDD, Boost/Inverted DC/DC Converter For CCD Bias, DFN10 (3x3mm)
 K DC Converter CCD Bias

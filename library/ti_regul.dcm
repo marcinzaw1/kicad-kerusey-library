@@ -162,6 +162,114 @@ K Adjustable Linear Regulator
 F http://www.ti.com/lit/ds/symlink/lm723.pdf
 $ENDCMP
 #
+$CMP LP2981AIM5-2.5/NOPB
+D LP2981AIM5-2.5, Micropower 2.5V 100mA Ultra LDO, SOT-23
+K 2.5V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981AIM5-3.0/NOPB
+D LP2981AIM5-3.0, Micropower 3V 100mA Ultra LDO, SOT-23
+K 3V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981AIM5-3.3/NOPB
+D LP2981AIM5-3.3, Micropower 3.3V 100mA Ultra LDO, SOT-23
+K 3.3V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981AIM5-3.6/NOPB
+D LP2981AIM5-3.6, Micropower 3.6V 100mA Ultra LDO, SOT-23
+K 3.6V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981AIM5-5.0/NOPB
+D LP2981AIM5-5.0, Micropower 5V 100mA Ultra LDO, SOT-23
+K 5V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981AIM5X-3.0/NOPB
+D LP2981AIM5X-3.0, Micropower 3V 100mA Ultra LDO, SOT-23
+K 3V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981AIM5X-3.3/NOPB
+D LP2981AIM5X-3.3, Micropower 3.3V 100mA Ultra LDO, SOT-23
+K 3.3V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981AIM5X-3.6/NOPB
+D LP2981AIM5X-3.6, Micropower 3.6V 100mA Ultra LDO, SOT-23
+K 3.6V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981AIM5X-5.0/NOPB
+D LP2981AIM5X-5.0, Micropower 5V 100mA Ultra LDO, SOT-23
+K 5V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5-2.5/NOPB
+D LP2981IM5-2.5, Micropower 2.5V 100mA Ultra LDO, SOT-23
+K 2.5V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5-3.0/NOPB
+D LP2981IM5-3.0, Micropower 3V 100mA Ultra LDO, SOT-23
+K 3V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5-3.3/NOPB
+D LP2981IM5-3.3, Micropower 3.3V 100mA Ultra LDO, SOT-23
+K 3.3V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5-3.6/NOPB
+D LP2981IM5-3.6, Micropower 3.6V 100mA Ultra LDO, SOT-23
+K 3.6V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5-5.0/NOPB
+D LP2981IM5-5.0, Micropower 5V 100mA Ultra LDO, SOT-23
+K 5V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5X-3.0/NOPB
+D LP2981IM5X-3.0, Micropower 3V 100mA Ultra LDO, SOT-23
+K 3V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5X-3.3/NOPB
+D LP2981IM5X-3.3, Micropower 3.3V 100mA Ultra LDO, SOT-23
+K 3.3V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5X-3.6/NOPB
+D LP2981IM5X-3.6, Micropower 3.6V 100mA Ultra LDO, SOT-23
+K 3.6V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
+$CMP LP2981IM5X-5.0/NOPB
+D LP2981IM5X-5.0, Micropower 5V 100mA Ultra LDO, SOT-23
+K 5V 100mA LDO
+F http://www.ti.com/lit/ds/symlink/lp2981-n.pdf
+$ENDCMP
+#
 $CMP LP2987AIMM-5.0/NOPB
 D LM2987AIMM-5.0, 200mA Linear LDO Regulator, Low Noise, Fixed Output 5V, MSOP-8
 K Linear LDO Regulator 200mA 5V
