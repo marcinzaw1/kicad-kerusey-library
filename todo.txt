@@ -26,7 +26,6 @@
  philips.lib
  power.lib			leave as is?
  pspice.lib			leave as is?
- regul.lib			in progress		yes
  siliconi.lib
  special.lib
  ttl_ieee.lib			leave as is?

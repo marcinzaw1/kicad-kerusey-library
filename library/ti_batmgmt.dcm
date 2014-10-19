@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ2003PN
+D BQ2003PN, Fast Battery Charger Controller, PDIP-16
+K Battery Charger
+F http://www.ti.com.cn/cn/lit/ds/symlink/bq2003.pdf
+$ENDCMP
+#
+$CMP BQ2003S
+D BQ2003S, Fast Battery Charger Controller, SOIC-16
+K Battery Charger
+F http://www.ti.com.cn/cn/lit/ds/symlink/bq2003.pdf
+$ENDCMP
+#
+#End Doc Library
