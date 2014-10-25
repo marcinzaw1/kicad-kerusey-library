@@ -582,6 +582,18 @@ K AVR 8bit Microcontroller MegaAVR
 F http://www.atmel.com/Images/doc8209.pdf
 $ENDCMP
 #
+$CMP ATMEGA16U2-A
+D ATMEGA16U2, TQFP32, 16k Flash, 512B SRAM, 512B EEPROM, USB
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/Images/doc7799.pdf
+$ENDCMP
+#
+$CMP ATMEGA16U2-M
+D ATMEGA16U2, QFN32, 16k Flash, 512B SRAM, 512B EEPROM, USB
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/Images/doc7799.pdf
+$ENDCMP
+#
 $CMP ATMEGA16U4-A
 D ATMEGA16U4, TQFP44, 16K Flash, 1.25K SRAM, 512B EEPROM, USB2.0
 K AVR 8bit Microcontroller MegaAVR USB
@@ -868,6 +880,18 @@ $CMP ATMEGA32M1-M
 D ATMEGA32M1, QFN32, 32k Flash, 2k SRAM, 1kB EEPROM, CAN
 K AVR 8bit Microcontroller MegaAVR
 F http://www.atmel.com/Images/doc8209.pdf
+$ENDCMP
+#
+$CMP ATMEGA32U2-A
+D ATMEGA32U2, TQFP32, 32k Flash, 1024B SRAM, 1024B EEPROM, USB
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/Images/doc7799.pdf
+$ENDCMP
+#
+$CMP ATMEGA32U2-M
+D ATMEGA32U2, QFN32, 32k Flash, 1024B SRAM, 1024B EEPROM, USB
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/Images/doc7799.pdf
 $ENDCMP
 #
 $CMP ATMEGA32U4-A
@@ -1318,6 +1342,18 @@ $CMP ATMEGA8A-P
 D ATMEGA8A, PDIP28 Narrow, 8k Flash, 1k SRAM, 512B EEPROM
 K AVR 8bit Microcontroller MegaAVR
 F http://www.atmel.com/images/atmel-8159-8-bit-avr-microcontroller-atmega8a_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA8U2-A
+D ATMEGA8U2, TQFP32, 8k Flash, 512B SRAM, 512B EEPROM, USB
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/Images/doc7799.pdf
+$ENDCMP
+#
+$CMP ATMEGA8U2-M
+D ATMEGA8U2, QFN32, 8k Flash, 512B SRAM, 512B EEPROM, USB
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/Images/doc7799.pdf
 $ENDCMP
 #
 $CMP ATTINY10-P
