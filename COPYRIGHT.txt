@@ -1,12 +1,12 @@
 ﻿
     Kerusey Karyu KiCad Libraries
     Copyright (C) 2014  Kerusey Karyu
-	
+
     This libraries are free software; you can redistribute them and/or
     modify them under the terms of the GNU Library General Public
     License as published by the Free Software Foundation; either
     version 2 of the License, or (at your option) any later version.
-	
+
     These libraries are distributed in the hope that they will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -15,11 +15,12 @@
     You should have received a copy of the GNU Library General Public
     License along with these libraries; if not, write to the Free
     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
-	
 
-    Some symbols were created based upon work of other library contributors.
+
+    Some symbols were created based upon work of other library contributors:
     Copyright (C) 2014  KiCad Library Commiters
     Copyright (C) 2014  Žiga Stegu
-	Copyright (C) 2014  ObKo
+    Copyright (C) 2014  ObKo
     Copyright (C) 2013  Jason Work
-	
+    Copyright (C) 2014  Pablo Andrés
+
