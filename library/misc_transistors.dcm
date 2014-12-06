@@ -36,6 +36,12 @@ D 2SD600, Vce 100V, Ic 1A, High Voltage Power Transistor
 K High Voltage Power Transistor TO126
 $ENDCMP
 #
+$CMP 3SK263
+D 3SK263, 15V Vds, 0.03A Id, 1.1dB NF, Dual Gate N-Channel MOSFET, SOT-143
+K Dual Gate N-Channel RF MOSFET
+F http://www.onsemi.com/pub/Collateral/EN4423-D.PDF
+$ENDCMP
+#
 $CMP BC237B
 D BC237B, 50V Vce, 0.1A Ic, NPN, Small Signal Transistor,TO-92
 K BC237B NPN Transistor
@@ -85,8 +91,8 @@ F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
 $ENDCMP
 #
 $CMP BC516
-D BC516, 30V Vce, 1A Ic, NPN Darlington Transistor,TO-92
-K BC516 NPN Darlington Darl Transistor
+D BC516, 30V Vce, 1A Ic, PNP Darlington Transistor,TO-92
+K BC516 PNP Darlington Darl Transistor
 F http://www.fairchildsemi.com/ds/BC/BC516.pdf
 $ENDCMP
 #
