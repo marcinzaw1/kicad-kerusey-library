@@ -66,6 +66,60 @@ K Adjustable Voltage Regulator 1.5A Negative
 F http://www.ti.com/lit/ds/symlink/lm337-n.pdf
 $ENDCMP
 #
+$CMP LM2931AM-5.0/NOPB
+D LM2931AM-5.0, 100mA Low Dropout Regulator, Fixed Output 5V, SO-8
+K LDO Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
+$CMP LM2931AS-5.0/NOPB
+D LM2931AS-5.0, 100mA Low Dropout Regulator, Fixed Output 5V, TO-263 (D2PAK)
+K LDO Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
+$CMP LM2931AT-5.0/NOPB
+D LM2931AT-5.0, 100mA Low Dropout Regulator, Fixed Output 5V, TO-220
+K LDO Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
+$CMP LM2931AZ-5.0/LFT
+D LM2931AZ-5.0, 100mA Low Dropout Regulator, Fixed Output 5V, TO-92
+K LDO Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
+$CMP LM2931AZ-5.0/NOPB
+D LM2931AZ-5.0, 100mA Low Dropout Regulator, Fixed Output 5V, TO-92
+K LDO Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
+$CMP LM2931CM/NOPB
+D LM2931CM, 100mA Low Dropout Regulator, Adjustable Output, SO-8
+K LDO Adjustable Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
+$CMP LM2931CS/NOPB
+D LM2931CS, 100mA Low Dropout Regulator, Adjustable Output, TO-263-5 (D2PAK-5)
+K LDO Adjustable Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
+$CMP LM2931CT/LF
+D LM2931CT, 100mA Low Dropout Regulator, Adjustable Output, TO-220-5
+K LDO Adjustable Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
+$CMP LM2931CT/NOPB
+D LM2931CT, 100mA Low Dropout Regulator, Adjustable Output, TO-220-5
+K LDO Adjustable Voltage Regulator 100mA Positive
+F http://www.ti.com/lit/ds/symlink/lm2931-n.pdf
+$ENDCMP
+#
 $CMP LM317AEMP
 D LM317AEMP, 1A 35V Adjustable Linear Regulator, SOT-223
 K Adjustable Voltage Regulator 1A Positive
