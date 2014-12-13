@@ -48,6 +48,48 @@ K EIA/TIA-232E LEVEL SHIFTER 200kB/s
 F http://pdfserv.maximintegrated.com/en/ds/MAX220-MAX249.pdf
 $ENDCMP
 #
+$CMP MAX31855EASA
+D MAX31855EASA, Cold Junction E-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855JASA
+D MAX31855JASA, Cold Junction J-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855KASA
+D MAX31855KASA, Cold Junction K-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855NASA
+D MAX31855NASA, Cold Junction N-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855RASA
+D MAX31855RASA, Cold Junction R-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855SASA
+D MAX31855SASA, Cold Junction S-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX31855TASA
+D MAX31855TASA, Cold Junction T-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
 $CMP MAX5160LEUA
 D MAX5160LEUA, 50k Low Level Digital Potentiometer, uMAX
 K DIGITAL POT POTENTNIOMETER
