@@ -108,6 +108,24 @@ K SPI Digital Potentiometr 50k
 F http://www.analog.com/static/imported-files/data_sheets/AD5293.pdf
 $ENDCMP
 #
+$CMP AD9834BRU
+D AD9834BRU, 10 bit 50 MHz Complete Direct Digital Synthesizer, 2.3 V to 5.5 V, 20 mW, TSSOP20
+K Direct Digital Synthesizer DDS
+F http://www.analog.com/static/imported-files/data_sheets/AD9834.pdf
+$ENDCMP
+#
+$CMP AD9834BRUZ
+D AD9834BRUZ, 10 bit 50 MHz Complete Direct Digital Synthesizer, 2.3 V to 5.5 V, 20 mW, TSSOP20
+K Direct Digital Synthesizer DDS
+F http://www.analog.com/static/imported-files/data_sheets/AD9834.pdf
+$ENDCMP
+#
+$CMP AD9834CRUZ
+D AD9834CRUZ, 10 bit 75 MHz Complete Direct Digital Synthesizer, 2.3 V to 5.5 V, 20 mW, TSSOP20
+K Direct Digital Synthesizer DDS
+F http://www.analog.com/static/imported-files/data_sheets/AD9834.pdf
+$ENDCMP
+#
 $CMP AD9951YSV
 D AD9951YSV, 14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48
 K Direct Digital Synthesizer DDS
