@@ -22,6 +22,7 @@
  memory.lib			in progress
  msp430.lib		!!!!!!	base finished
 				rework includes
+ motor_drivers.lib
  motorola.lib
  philips.lib
  power.lib			leave as is?
