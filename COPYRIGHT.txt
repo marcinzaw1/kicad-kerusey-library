@@ -24,3 +24,4 @@
     Copyright (C) 2013  Jason Work
     Copyright (C) 2014  Pablo Andrés
     Copyright (C) 2014  Arun Isaac
+    Copyright (C) 2015  Mateusz Krawczuk
