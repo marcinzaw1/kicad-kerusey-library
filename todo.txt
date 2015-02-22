@@ -1,7 +1,7 @@
  Name			Imp.	Status			My symbols
 ----------------------------------------------------------------------------------
  74xx.lib
- adc-dac.lib			in progress
+ adc-dac.lib			in progress		yes
  analog_switches.lib
  audio.lib			in progress		yes
  brooktre.lib
@@ -25,7 +25,7 @@
  motor_drivers.lib
  motorola.lib
  philips.lib
- power.lib			leave as is?
+ power.lib
  pspice.lib			leave as is?
  siliconi.lib
  special.lib
