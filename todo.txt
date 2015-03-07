@@ -9,7 +9,6 @@
  cmos_ieee.lib			leave as is?
  conn.lib
  contrib.lib
- digital-audio.lib	!!!				yes
  display.lib						yes
  dsp.lib
  elec-unifil.lib
