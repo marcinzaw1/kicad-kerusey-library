@@ -1,5 +1,41 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCP3204-BI/P
+D MCP3204-BI/P, Quad 12-bit Analog/Digital Converter 1LSB INL, SPI Interface, PDIP-14
+K ADC 12-bit SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf
+$ENDCMP
+#
+$CMP MCP3204-BI/SL
+D MCP3204-BI/SL, Quad 12-bit Analog/Digital Converter 1LSB INL, SPI Interface, SO-14
+K ADC 12-bit SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf
+$ENDCMP
+#
+$CMP MCP3204-BI/ST
+D MCP3204-BI/ST, Quad 12-bit Analog/Digital Converter 1LSB INL, SPI Interface, TSSOP-14
+K ADC 12-bit SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf
+$ENDCMP
+#
+$CMP MCP3204-CI/P
+D MCP3204-CI/P, Quad 12-bit Analog/Digital Converter 2LSB INL, SPI Interface, PDIP-14
+K ADC 12-bit SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf
+$ENDCMP
+#
+$CMP MCP3204-CI/SL
+D MCP3204-CI/SL, Quad 12-bit Analog/Digital Converter 2LSB INL, SPI Interface, SO-14
+K ADC 12-bit SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf
+$ENDCMP
+#
+$CMP MCP3204-CI/ST
+D MCP3204-CI/ST, Quad 12-bit Analog/Digital Converter 2LSB INL, SPI Interface, TSSOP-14
+K ADC 12-bit SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21298c.pdf
+$ENDCMP
+#
 $CMP MCP3421A0T-E/CH
 D MCP3421A0T, Single Delta-Sigma 18bit Analog to Digital Converter, I2C Interface, SOT-23-6
 K Sigma-Delta ADC Converter 18bit I2C
