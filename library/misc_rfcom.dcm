@@ -10,12 +10,6 @@ D BTM222, Bluetooth SPP Module, UART, Class 1
 K Bluetooth BT SPP Module
 $ENDCMP
 #
-$CMP CC1000
-D CC1000, Single Chip Low Power RF Transceiver, TSSOP28
-K Low Power RF Transciever
-F www.ti.com/lit/ds/symlink/cc1000.pdf
-$ENDCMP
-#
 $CMP SIM900
 D SIM900, GSM Quad-Band Communication Module, GPRS, Audio Engine, AT Command Set
 K GSM GPRS Quad-Band SMS FAX
