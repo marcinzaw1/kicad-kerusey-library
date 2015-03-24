@@ -24,7 +24,6 @@
  motor_drivers.lib
  motorola.lib
  philips.lib
- power.lib
  pspice.lib			leave as is?
  siliconi.lib
  special.lib
