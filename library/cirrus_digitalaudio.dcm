@@ -23,27 +23,21 @@ D 96KHz Digital Audio Receiver
 K digital audio interface receiver spdif
 $ENDCMP
 #
-$CMP CS8416
-D 192 kHz Digital Audio Interface Receiver
+$CMP CS8416-CNZ
+D CS8416, 192 kHz Digital Audio Interface Receiver, QFN-28
 K digital audio interface receiver spdif
 F http://www.cirrus.com/en/pubs/proDatasheet/CS8416_F3.pdf
 $ENDCMP
 #
-$CMP CS8416-N
-D 192 kHz Digital Audio Interface Receiver (QFN-28)
-K digital audio interface receiver spdif
+$CMP CS8416-CSZ
+D CS8416, 192 kHz Digital Audio Interface Receiver, SOIC-28
+K digital audio interface receiver SPDIF
 F http://www.cirrus.com/en/pubs/proDatasheet/CS8416_F3.pdf
 $ENDCMP
 #
-$CMP CS8416-S
-D 192 kHz Digital Audio Interface Receiver (SOIC-28)
-K digital audio interface receiver spdif
-F http://www.cirrus.com/en/pubs/proDatasheet/CS8416_F3.pdf
-$ENDCMP
-#
-$CMP CS8416-Z
-D 192 kHz Digital Audio Interface Receiver (TSSOP-28)
-K digital audio interface receiver spdif
+$CMP CS8416-CZZ
+D CS8416, 192 kHz Digital Audio Interface Receiver, TSSOP-28
+K digital audio interface receiver SPDIF
 F http://www.cirrus.com/en/pubs/proDatasheet/CS8416_F3.pdf
 $ENDCMP
 #
