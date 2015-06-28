@@ -1,7 +1,6 @@
  Name			Imp.	Status			My symbols
 ----------------------------------------------------------------------------------
  74xx.lib
- adc-dac.lib			in progress		yes
  analog_switches.lib
  audio.lib			in progress		yes
  brooktre.lib
@@ -21,7 +20,7 @@
  memory.lib			in progress
  msp430.lib		!!!!!!	base finished
 				rework includes
- motor_drivers.lib
+ motor_drivers.lib		in progress		no
  motorola.lib
  philips.lib
  pspice.lib			leave as is?
