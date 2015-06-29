@@ -20,7 +20,6 @@
  memory.lib			in progress
  msp430.lib		!!!!!!	base finished
 				rework includes
- motor_drivers.lib		in progress		no
  motorola.lib
  philips.lib
  pspice.lib			leave as is?
