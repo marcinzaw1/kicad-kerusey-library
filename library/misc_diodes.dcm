@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAL99
+D BAL99, Small HiSpeed Diode, Vr 70V, Ifm 500mA, SOT-23
+K Small HiSpeed Diode 70V
+F http://www.nxp.com/documents/data_sheet/BAL99.pdf
+$ENDCMP
+#
+$CMP BAV199
+D BAV199, Small Dual Series Diode, Vr 70V, Ifm 160mA, SOT-23
+K Small Dual Series Diode 70V
+F http://www.nxp.com/documents/data_sheet/BAV199.pdf
+$ENDCMP
+#
+$CMP BAV99
+D BAV99, Small Dual Series Diode, Vr 100V, Ifm 125mA, SOT-23
+K Small Dual Series Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP BAV99S
+D BAV99S, Small Quad Dual Series Diode, Vr 100V, Ifm 125mA, SOT-363
+K Small Quad Dual Series Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP BAV99W
+D BAV99W, Small Dual Series Diode, Vr 100V, Ifm 125mA, SOT-323
+K Small Dual Series Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP UMN1N
+D UMN1N, Small Quad HiSpeed Switching Diode, Common Cathode, Vr 80V, Ifm 80mA, SOT-353
+K Small Quad Switching Diode 80V
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/umn1n.pdf
+$ENDCMP
+#
+#End Doc Library
