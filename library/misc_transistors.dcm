@@ -1015,100 +1015,10 @@ K Dual N-Channel MOSFET
 F http://www.fairchildsemi.com/ds/FD/FDS9926A.pdf
 $ENDCMP
 #
-$CMP IPS6011PBF
-D IPS6011PbF, 39V, 60A, Intelligent Power Switch High Side, TO220-5
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6011pbf.pdf
-$ENDCMP
-#
-$CMP IPS6011RPBF
-D IPS6011RPbF, 39V, 60A, Intelligent Power Switch High Side, D-PAK 5pin
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6011pbf.pdf
-$ENDCMP
-#
-$CMP IPS6011SPBF
-D IPS6011SPbF, 39V, 60A, Intelligent Power Switch High Side, D2-PAK 5pin
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6011pbf.pdf
-$ENDCMP
-#
-$CMP IPS6021PBF
-D IPS6021PbF, 39V, 32A, Intelligent Power Switch High Side, TO220-5
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6021pbf.pdf
-$ENDCMP
-#
-$CMP IPS6021RPBF
-D IPS6021RPbF, 39V, 32A, Intelligent Power Switch High Side, D-PAK 5pin
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6021pbf.pdf
-$ENDCMP
-#
-$CMP IPS6021SPBF
-D IPS6021SPbF, 39V, 32A, Intelligent Power Switch High Side, D2-PAK 5pin
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6021pbf.pdf
-$ENDCMP
-#
-$CMP IPS6031PBF
-D IPS6031PbF, 39V, 16A, Intelligent Power Switch High Side, TO220-5
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6031pbf.pdf
-$ENDCMP
-#
-$CMP IPS6031RPBF
-D IPS6031RPbF, 39V, 16A, Intelligent Power Switch High Side, D-PAK 5pin
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6031pbf.pdf
-$ENDCMP
-#
-$CMP IPS6031SPBF
-D IPS6031SPbF, 39V, 16A, Intelligent Power Switch High Side, D2-PAK 5pin
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6031pbf.pdf
-$ENDCMP
-#
-$CMP IPS6041GPBF
-D IPS6041GPbF, 39V, 5A, Intelligent Power Switch High Side, SO8
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6041pbf.pdf
-$ENDCMP
-#
-$CMP IPS6041PBF
-D IPS6041PbF, 39V, 5A, Intelligent Power Switch High Side, TO220
-K Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6041pbf.pdf
-$ENDCMP
-#
-$CMP IPS6041RPBF
-D IPS6041RPbF, 39V, 5A, Intelligent Power Switch High Side, DPAK 5pin
-K Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6041pbf.pdf
-$ENDCMP
-#
-$CMP IPS6041SPBF
-D IPS6041SPbF, 39V, 5A, Intelligent Power Switch High Side, D2PAK 5pin
-K Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips6041pbf.pdf
-$ENDCMP
-#
-$CMP IPS7091GPBF
-D IPS7091GPbF, 70V, 5A, Intelligent Power Switch High Side, D2-PAK 5pin
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips7091.pdf
-$ENDCMP
-#
-$CMP IPS7091PBF
-D IPS7091PbF, 70V, 5A, Intelligent Power Switch High Side, TO220-5
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips7091.pdf
-$ENDCMP
-#
-$CMP IPS7091SPBF
-D IPS7091SPbF, 70V, 5A, Intelligent Power Switch High Side, D2-PAK 5pin
-K  Intelligent Power Switch High Side MOSFET
-F http://www.irf.com/product-info/datasheets/data/ips7091.pdf
+$CMP IRF5305
+D IRF5305, -55V Vds, -31A Id, HEXFET P-Channel MOSFET, TO-220
+K HEXFET P-Channel MOSFET
+F http://www.redrok.com/MOSFET_IRF5305_-55V_-31A_6mO_Vth-4.0_TO-220.pdf
 $ENDCMP
 #
 $CMP IRF540N
@@ -1141,6 +1051,12 @@ K HexFET Power Mosfet N-MOS
 F http://www.irf.com/product-info/datasheets/data/irf7607pbf.pdf
 $ENDCMP
 #
+$CMP IRF9530
+D IRF9530, -100V Vds, -12A Id, HEXFET P-Channel MOSFET, TO-220
+K HEXFET P-Channel MOSFET
+F http://www.vishay.com/docs/91076/91076.pdf
+$ENDCMP
+#
 $CMP IRF9540N
 D IRF9540N, -100V Vds, -23A Id, HEXFET P-Channel MOSFET, TO220
 K HEXFET P-Channel MOSFET
@@ -1151,6 +1067,12 @@ $CMP IRG4PF50W
 D IRG4PF50W, 28A, 900V, N-Channel IGBT
 K N-Channel IGBT Power Transistor
 F http://www.irf.com/product-info/datasheets/data/irg4pf50w.pdf
+$ENDCMP
+#
+$CMP IRLZ44N
+D IRLZ44N, 55V Vds, 47A Id, HEXFET N-Channel MOSFET, TO-220
+K HEXFET N-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irlz44n.pdf
 $ENDCMP
 #
 $CMP MJE13003
@@ -1223,6 +1145,12 @@ $CMP S8550
 D S8550, 20V Vce, 0.7A Ic, PNP Low Voltage High Current Transistor, TO-92
 K S8550 PNP Low Voltage High Current Transistor
 F http://www.unisonic.com.tw/datasheet/S8550.pdf
+$ENDCMP
+#
+$CMP SiHF9530
+D SiHF9530, -100V Vds, -12A Id, HEXFET P-Channel MOSFET, TO-220
+K HEXFET P-Channel MOSFET
+F http://www.vishay.com/docs/91076/91076.pdf
 $ENDCMP
 #
 $CMP TIP120
