@@ -6,10 +6,46 @@ K Small HiSpeed Diode 70V
 F http://www.nxp.com/documents/data_sheet/BAL99.pdf
 $ENDCMP
 #
+$CMP BAV170
+D BAV170, Small Dual Diode Common Cathode, Vr 100V, Ifm 500mA, SOT-23
+K Small Dual Diode Common Cathode 100V
+F http://www.nxp.com/documents/data_sheet/BAV170.pdf
+$ENDCMP
+#
 $CMP BAV199
 D BAV199, Small Dual Series Diode, Vr 70V, Ifm 160mA, SOT-23
 K Small Dual Series Diode 70V
 F http://www.nxp.com/documents/data_sheet/BAV199.pdf
+$ENDCMP
+#
+$CMP BAV70
+D BAV70, Small Dual Diode Common Cathode, Vr 100V, Ifm 150mA, SOT-23
+K Small Dual Diode Common Cathode 100V
+F http://www.nxp.com/documents/data_sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70M
+D BAV70M, Small Dual Diode Common Cathode, Vr 100V, Ifm 150mA, Leadless SOT-883
+K Small Dual Diode Common Cathode 100V Leadless
+F http://www.nxp.com/documents/data_sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70S
+D BAV70S, Small Quad Dual Diode, Vr 100V, Ifm 125mA, SOT-363
+K Small Quad Dual Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70T
+D BAV70T, Small Dual Diode Common Cathode, Vr 100V, Ifm 150mA, SOT-416
+K Small Dual Diode Common Cathode 100V
+F http://www.nxp.com/documents/data_sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70W
+D BAV70W, Small Dual Diode Common Cathode, Vr 100V, Ifm 150mA, SOT-323
+K Small Dual Diode Common Cathode 100V
+F http://www.nxp.com/documents/data_sheet/BAV70_SER.pdf
 $ENDCMP
 #
 $CMP BAV99
