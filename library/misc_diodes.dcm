@@ -18,6 +18,30 @@ K Small Dual Series Diode 70V
 F http://www.nxp.com/documents/data_sheet/BAV199.pdf
 $ENDCMP
 #
+$CMP BAV23
+D BAV23, Small High Voltage Diode, Vr 200V, Ifm 125mA, SOT-143B
+K Small High Voltage Diode 200V
+F http://www.nxp.com/documents/data_sheet/BAV23_SER.pdf
+$ENDCMP
+#
+$CMP BAV23A
+D BAV23A, Small Dual Diode Common Anode, Vr 200V, Ifm 125mA, SOT-23
+K Small Dual Diode Common Anode 200V
+F http://www.nxp.com/documents/data_sheet/BAV23_SER.pdf
+$ENDCMP
+#
+$CMP BAV23C
+D BAV23C, Small Dual Diode Common Cathode, Vr 200V, Ifm 125mA, SOT-23
+K Small Dual Diode Common Cathode 200V
+F http://www.nxp.com/documents/data_sheet/BAV23_SER.pdf
+$ENDCMP
+#
+$CMP BAV23S
+D BAV23S, Small Dual Diode Series, Vr 200V, Ifm 125mA, SOT-23
+K Small Dual Diode Series 200V
+F http://www.nxp.com/documents/data_sheet/BAV23_SER.pdf
+$ENDCMP
+#
 $CMP BAV70
 D BAV70, Small Dual Diode Common Cathode, Vr 100V, Ifm 150mA, SOT-23
 K Small Dual Diode Common Cathode 100V
