@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AZ23CXX
+D AZ23Cxx, Small Dual Zener Diode Common Anode, Vz 2V7-51V, 300mW, SOT-23
+K Small Dual Zener Diode Common Anode 2V7-51V
+F http://www.diodes.com/_files/datasheets/ds18003.pdf
+$ENDCMP
+#
 $CMP BAL99
 D BAL99, Small HiSpeed Diode, Vr 70V, Ifm 500mA, SOT-23
 K Small HiSpeed Diode 70V
@@ -88,6 +94,24 @@ $CMP BAV99W
 D BAV99W, Small Dual Series Diode, Vr 100V, Ifm 125mA, SOT-323
 K Small Dual Series Diode 100V
 F http://www.nxp.com/documents/data_sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP BAW156
+D BAW156, Small Dual Diode Common Anode, Vr 85V, Ifm 140mA, SOT-23
+K Small Dual Diode Common Anode 85V
+F http://www.diodes.com/_files/datasheets/ds30231.pdf
+$ENDCMP
+#
+$CMP DZ23CXX
+D DZ23Cxx, Small Dual Zener Diode Common Cathode, Vz 2V7-51V, 300mW, SOT-23
+K Small Dual Zener Diode Common Cathode 2V7-51V
+F http://www.diodes.com/_files/datasheets/ds18002.pdf
+$ENDCMP
+#
+$CMP QZX563C6V8C
+D QZX563C6V8C, Small Quad Zener Diode, Common Anode, Vr 6.8V, 150mW, SOT-563
+K Small Quad Zener Diode C6V8
+F http://www.diodes.com/_files/datasheets/ds30716.pdf
 $ENDCMP
 #
 $CMP UMN1N
