@@ -108,6 +108,42 @@ K Small Dual Zener Diode Common Cathode 2V7-51V
 F http://www.diodes.com/_files/datasheets/ds18002.pdf
 $ENDCMP
 #
+$CMP MMBD4448HADW
+D MMBD4448HADW, Double Small Dual Diode, Common Anode, Vr 80V, Ifm 500mA, SOT-563
+K Double Small Dual Diode Common Anode 80V
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP MMBD4448HAQW
+D MMBD4448HAQW, Small Quad Diode, Common Anode, Vr 80V, Ifm 500mA, SOT-353
+K Small Quad Diode 80V
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP MMBD4448HCDW
+D MMBD4448HCDW, Double Small Dual Diode, Common Cathode, Vr 80V, Ifm 500mA, SOT-563
+K Double Small Dual Diode Common Cathode 80V
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP MMBD4448HCQW
+D MMBD4448HCQW, Small Quad Diode, Common Cathode, Vr 80V, Ifm 500mA, SOT-353
+K Small Quad Diode 80V
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP MMBD4448HSDW
+D MMBD4448HADW, Double Small Dual Series Diode, Vr 80V, Ifm 500mA, SOT-563
+K Double Small Dual Series Diode 80V
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP MMBD4448HTW
+D MMBD4448HTW, Triple Small Diode, Vr 80V, Ifm 500mA, SOT-363
+K Triple Small Diode 80V
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
 $CMP QZX563C6V8C
 D QZX563C6V8C, Small Quad Zener Diode, Common Anode, Vr 6.8V, 150mW, SOT-563
 K Small Quad Zener Diode C6V8
