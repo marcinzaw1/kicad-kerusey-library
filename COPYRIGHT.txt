@@ -17,7 +17,7 @@
     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 
-    Some symbols were created based upon work of other library contributors.
+    Some symbols were created based upon work of KiCad library contributors.
     Special acknowledge to:
       
       KiCad Library Committers Members

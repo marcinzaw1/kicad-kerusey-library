@@ -1050,6 +1050,90 @@ K 300mA LDO Regulator Fixed Positive
 F http://www.a-powerusa.com/docs/APE8865-3.pdf
 $ENDCMP
 #
+$CMP MIC5205-2.5YM5
+D MIC5205-2.5YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.7YM5
+D MIC5205-2.7YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 2.7V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.85YM5
+D MIC5205-2.85YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 2.85V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.8YM5
+D MIC5205-2.8YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.9YM5
+D MIC5205-2.9YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 2.9V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.0YM5
+D MIC5205-3.0YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 3.0V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.1YM5
+D MIC5205-3.1YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 3.1V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.2YM5
+D MIC5205-3.2YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 3.2V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.3YM5
+D MIC5205-3.3YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.6YM5
+D MIC5205-3.6YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 3.6V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.8YM5
+D MIC5205-3.8YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 3.8V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-4.0YM5
+D MIC5205-4.0YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 4V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-5.0YM5
+D MIC5205-5.0YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Fixed Output 5V, SOT-23-5
+K 150mA Low Noise LDO Regulator Fixed Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205YM5
+D MIC5205YM5, 150 mA Low Noise Low Dropout Voltage Regulator, Adjustable, SOT-23-5
+K 150mA Low Noise LDO Adjustable Regulator Positive
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
 $CMP SPX2920M3-3.3
 D SPX2920M3-3.3, 400mA Low drop-out regulator, Fixed Output 3.3V, SOT223
 K REGULATOR LDO 3.3V
