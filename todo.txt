@@ -14,7 +14,6 @@
  gennum.lib
  graphic.lib		
  hc11.lib
- intel.lib
  interface.lib		!!				yes
  linear.lib
  memory.lib			in progress
