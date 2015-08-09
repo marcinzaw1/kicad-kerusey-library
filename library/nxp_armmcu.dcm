@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 2011-01-22 13:48:30
+EESchema-DOCLIB  Version 2.0
 #
 $CMP LPC1102UK
 D LPC1102UK, 32-bit ARM Cortex-M0 microcontroller, 32kB Flash, 8kB SRAM, UART, SPI, ADC 5ch
@@ -124,6 +124,78 @@ $CMP LPC1114FHN33/302
 D LPC1114FHN33/302, 32-bit ARM Cortex-M0 microcontroller, 32kB Flash, 8k SRAM, UART, I2C, SPI, ADC 8ch, Power Profile
 K ARM, 32bit, CortexM0, M0, NXP, Microcontroller
 F http://www.nxp.com/documents/data_sheet/LPC1111_12_13_14.pdf
+$ENDCMP
+#
+$CMP LPC11U12FBD48/201
+D LPC11U12FBD48/201, 32-bit ARM Cortex-M0 microcontroller, 16kB Flash, 6kB SRAM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U1X.pdf
+$ENDCMP
+#
+$CMP LPC11U13FBD48/201
+D LPC11U13FBD48/201, 32-bit ARM Cortex-M0 microcontroller, 24kB Flash, 6kB SRAM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U1X.pdf
+$ENDCMP
+#
+$CMP LPC11U14FBD48/201
+D LPC11U14FBD48/201, 32-bit ARM Cortex-M0 microcontroller, 32kB Flash, 6kB SRAM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U1X.pdf
+$ENDCMP
+#
+$CMP LPC11U22FBD48/301
+D LPC11U22FBD48/301, 32-bit ARM Cortex-M0 microcontroller, 16kB Flash, 6kB SRAM, 1kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U2X.pdf
+$ENDCMP
+#
+$CMP LPC11U23FBD48/301
+D LPC11U23FBD48/301, 32-bit ARM Cortex-M0 microcontroller, 24kB Flash, 6kB SRAM, 1kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U2X.pdf
+$ENDCMP
+#
+$CMP LPC11U24FBD48/301
+D LPC11U24FBD48/301, 32-bit ARM Cortex-M0 microcontroller, 32kB Flash, 6kB SRAM, 2kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U2X.pdf
+$ENDCMP
+#
+$CMP LPC11U24FBD48/401
+D LPC11U24FBD48/401, 32-bit ARM Cortex-M0 microcontroller, 32kB Flash, 8kB SRAM, 4kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U2X.pdf
+$ENDCMP
+#
+$CMP LPC11U34FBD48/311
+D LPC11U34FBD48/311, 32-bit ARM Cortex-M0 microcontroller, 40kB Flash, 8kB SRAM, 4kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U3X.pdf
+$ENDCMP
+#
+$CMP LPC11U34FBD48/421
+D LPC11U34FBD48/311, 32-bit ARM Cortex-M0 microcontroller, 48kB Flash, 8kB SRAM, 4kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U3X.pdf
+$ENDCMP
+#
+$CMP LPC11U35FBD48/401
+D LPC11U35FBD48/401, 32-bit ARM Cortex-M0 microcontroller, 64kB Flash, 8kB SRAM, 4kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U3X.pdf
+$ENDCMP
+#
+$CMP LPC11U36FBD48/401
+D LPC11U36FBD48/401, 32-bit ARM Cortex-M0 microcontroller, 96kB Flash, 8kB SRAM, 4kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U3X.pdf
+$ENDCMP
+#
+$CMP LPC11U37FBD48/401
+D LPC11U37FBD48/401, 32-bit ARM Cortex-M0 microcontroller, 128kB Flash, 8kB SRAM, 4kB EEPROM, USART, I2C, SPI, ADC 8ch
+K ARM, 32bit, CortexM0, M0, NXP, USB, Microcontroller
+F http://www.nxp.com/documents/data_sheet/LPC11U3X.pdf
 $ENDCMP
 #
 $CMP LPC1763FBD100
