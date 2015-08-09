@@ -498,6 +498,54 @@ K Switching Regulator
 F http://www.ti.com/lit/ds/symlink/lm2578a.pdf
 $ENDCMP
 #
+$CMP LM3670MF-1.2/NOPB
+D LM3670MF-1.2/NOPB, 5.5V, 350mA Step-Down Voltage Regulator, SOT-23-5
+K Step-Down Voltage Regulator 5.5V 350mA
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-1.5/NOPB
+D LM3670MF-1.5/NOPB, 5.5V, 350mA Step-Down Voltage Regulator, SOT-23-5
+K Step-Down Voltage Regulator 5.5V 350mA
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-1.6/NOPB
+D LM3670MF-1.6/NOPB, 5.5V, 350mA Step-Down Voltage Regulator, SOT-23-5
+K Step-Down Voltage Regulator 5.5V 350mA
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-1.8/NOPB
+D LM3670MF-1.8/NOPB, 5.5V, 350mA Step-Down Voltage Regulator, SOT-23-5
+K Step-Down Voltage Regulator 5.5V 350mA
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-1.875/NOPB
+D LM3670MF-1.875/NOPB, 5.5V, 350mA Step-Down Voltage Regulator, SOT-23-5
+K Step-Down Voltage Regulator 5.5V 350mA
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-2.5/NOPB
+D LM3670MF-2.5/NOPB, 5.5V, 350mA Step-Down Voltage Regulator, SOT-23-5
+K Step-Down Voltage Regulator 5.5V 350mA
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-3.3/NOPB
+D LM3670MF-3.3/NOPB, 5.5V, 350mA Step-Down Voltage Regulator, SOT-23-5
+K Step-Down Voltage Regulator 5.5V 350mA
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-ADJ/NOPB
+D LM3670MF-ADJ/NOPB, 5.5V, 350mA Step-Down Adjustable Voltage Regulator, SOT-23-5
+K Step-Down Voltage Regulator 5.5V 350mA Adjustable
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
 $CMP LM5006MM
 D LM5006, 600 mA, 80V Constant On-Time Buck Switching Regulator
 K Constant On-Time Buck Switching Regulator
