@@ -10,7 +10,6 @@
  contrib.lib
  display.lib						yes
  dsp.lib
- elec-unifil.lib
  gennum.lib
  graphic.lib		
  hc11.lib
@@ -21,11 +20,12 @@
 				rework includes
  motorola.lib
  philips.lib
- pspice.lib			leave as is?
  siliconi.lib
  special.lib
  ttl_ieee.lib			leave as is?
  video.lib
  xilinx.lib
 
-Notes:
+Notes: 
+ elec-unifil.lib		not included
+ pspice.lib			not included

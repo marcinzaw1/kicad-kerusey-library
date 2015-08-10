@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LTC2861CGN
+D 20Mbps RS485 transceiver with tntegrated switchable termination
+K RS485
+F linear-tec\ltc2859-2861.pdf
+$ENDCMP
+#
 $CMP LTC2983CLX
 D LTC2983CLX, Multi-Sensor Temperature Measurement System, High Accuracy, LQFP-48 (7x7mm)
 K Flexible Temperature Measurement RTD NTC Cold Junction Termocouple
