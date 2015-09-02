@@ -189,6 +189,18 @@ K Adjustable 3A 52KHz Buck DC/DC
 F http://www.dianyuan.com/bbs/u/54/437861181916300.pdf
 $ENDCMP
 #
+$CMP ISL8117FRZ
+D ISL8117FRZ, Synchronus Step-Down PWM Controller, 60V, QFN-16 (4x4 P0.5mm)
+K Step-Down Controller DC-DC
+F https://www.intersil.com/content/dam/Intersil/documents/isl8/isl8117.pdf
+$ENDCMP
+#
+$CMP ISL8117FVEZ
+D ISL8117FVEZ, Synchronus Step-Down PWM Controller, 60V, HTSSOP-16
+K Step-Down Controller DC-DC
+F https://www.intersil.com/content/dam/Intersil/documents/isl8/isl8117.pdf
+$ENDCMP
+#
 $CMP MIC2177-3.3BWM
 D MIC2177-3.3BWM, 2.5A 3.3V Step-Down Swtching Regulator (Synchronous) , SOIC20 (Wide)
 K 2.5A 3.3V Synchronus Switching Regulator
