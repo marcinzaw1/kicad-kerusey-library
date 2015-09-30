@@ -9,7 +9,7 @@ $ENDCMP
 $CMP LTC2983CLX
 D LTC2983CLX, Multi-Sensor Temperature Measurement System, High Accuracy, LQFP-48 (7x7mm)
 K Flexible Temperature Measurement RTD NTC Cold Junction Termocouple
-F http://cds.linear.com/docs/en/datasheet/2983f.pdf
+F http://cds.linear.com/docs/en/datasheet/2983fb.pdf
 $ENDCMP
 #
 $CMP LTC2983ILX
