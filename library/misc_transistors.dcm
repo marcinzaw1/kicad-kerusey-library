@@ -1153,6 +1153,12 @@ K HEXFET P-Channel MOSFET
 F http://www.vishay.com/docs/91076/91076.pdf
 $ENDCMP
 #
+$CMP SPN2308
+D SPN2308, 20V Vds, 2A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.syncpower.com/datasheet/SPN2308.pdf
+$ENDCMP
+#
 $CMP TIP120
 D TIP120, 5A Ic, 60V Vce, Silicon Darlington Power Transistor NPN
 K Darlington Power Transistor NPN
