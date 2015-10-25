@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATSAMD09C13A-SS
+D ATSAMD09C13A-SS, SOIC14, 8K Flash, 4K RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42414-SAM-D09_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATSAMD09D14A-M
+D ATSAMD09D14A-M, QFN32, 16K Flash, 4K RAM, 48MHz, CortexM0+
+K ARM 32bit Microcontroller 48MHz CortexM0+
+F http://www.atmel.com/Images/Atmel-42414-SAM-D09_Datasheet.pdf
+$ENDCMP
+#
 $CMP ATSAMD20E14A-A
 D ATSAMD20E14A-A, TQFP32, 16K Flash, 2K RAM, 48MHz, CortexM0+
 K ARM 32bit Microcontroller 48MHz CortexM0+
