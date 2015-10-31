@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADS1118IDGS
+D ADS1118IDGS, 16-bit ADC with integrated MUX, PGA and temperature sensor, SPI, MSOP-10
+K Low Power ADC 16bit SPI
+F http://www.ti.com/lit/ds/symlink/ads1118.pdf
+$ENDCMP
+#
+$CMP ADS1118IRUG
+D ADS1118IRUG, 16-bit ADC with integrated MUX, PGA and temperature sensor, SPI, X2QFN-10
+K Low Power ADC 16bit SPI
+F http://www.ti.com/lit/ds/symlink/ads1118.pdf
+$ENDCMP
+#
 $CMP ADS1220IPW
 D ADS1220IPW, Low Power Low Noise Small Signal 24bit ADC, TSSOP-16
 K Low Power Low Noise 24bit ADC
