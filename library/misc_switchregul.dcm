@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP6503SP
+D AP6503SP, 24V 3A, Synchronus DC/DC Buck Converter, 340kHz, SO-8+EP
+K 24V 3A Buck Converter
+F http://www.diodes.com/_files/datasheets/AP6503.pdf
+$ENDCMP
+#
 $CMP APE1707H-12-HF
 D APE1707H-12-HF, 12V 2A, 150KHz PWM Buck DC/DC Converter, TO252-5 (D-PAK)
 K 12V 2A 150KHz PWM Buck DC/DC
