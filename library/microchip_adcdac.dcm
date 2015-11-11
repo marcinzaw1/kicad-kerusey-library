@@ -1,5 +1,59 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCP3002-I/MS
+D MCP3002-I/MS, Dual Channel 10-Bit A/D Converter with SPI Serial Interface, MSOP-8
+K Dual Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21294E.pdf
+$ENDCMP
+#
+$CMP MCP3002-I/P
+D MCP3002-I/P, Dual Channel 10-Bit A/D Converter with SPI Serial Interface, PDIP-8
+K Dual Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21294E.pdf
+$ENDCMP
+#
+$CMP MCP3002-I/SN
+D MCP3002-I/SN, Dual Channel 10-Bit A/D Converter with SPI Serial Interface, SOIC-8
+K Dual Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21294E.pdf
+$ENDCMP
+#
+$CMP MCP3002-I/ST
+D MCP3002-I/ST, Dual Channel 10-Bit A/D Converter with SPI Serial Interface, TSSOP-8
+K Dual Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21294E.pdf
+$ENDCMP
+#
+$CMP MCP3004-I/P
+D MCP3004-I/P, 4-Channel 10-Bit A/D Converters with SPI Serial Interface, PDIP-14
+K 8-Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf
+$ENDCMP
+#
+$CMP MCP3004-I/SL
+D MCP3004-I/SL, 4-Channel 10-Bit A/D Converters with SPI Serial Interface, SOIC-14
+K 8-Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf
+$ENDCMP
+#
+$CMP MCP3004-I/ST
+D MCP3004-I/ST, 4-Channel 10-Bit A/D Converters with SPI Serial Interface, TSOSP-14
+K 8-Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf
+$ENDCMP
+#
+$CMP MCP3008-I/P
+D MCP3008-I/P, 8-Channel 10-Bit A/D Converters with SPI Serial Interface, PDIP-16
+K 8-Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf
+$ENDCMP
+#
+$CMP MCP3008-I/SL
+D MCP3008-I/SL, 8-Channel 10-Bit A/D Converters with SPI Serial Interface, SO-16
+K 8-Channel 10-Bit ADC SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf
+$ENDCMP
+#
 $CMP MCP3204-BI/P
 D MCP3204-BI/P, Quad 12-bit Analog/Digital Converter 1LSB INL, SPI Interface, PDIP-14
 K ADC 12-bit SPI

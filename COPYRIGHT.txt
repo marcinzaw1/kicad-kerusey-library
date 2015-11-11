@@ -20,7 +20,7 @@
     Some symbols were created based upon work of KiCad library contributors.
     Special acknowledge to:
       
-      KiCad Library Committers Members
+      Members of KiCad Library Committers
       
       Žiga Stegu          ObKo
       Jason Work          Pablo Andrés
