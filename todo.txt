@@ -1,6 +1,6 @@
  Name			Imp.	Status			My symbols
 ----------------------------------------------------------------------------------
- 74xx.lib
+ 74xx.lib			in progress
  analog_switches.lib
  audio.lib			in progress		yes
  brooktre.lib
@@ -8,7 +8,7 @@
  cmos_ieee.lib			leave as is?
  conn.lib
  contrib.lib
- display.lib						yes
+ display.lib			in progress		yes
  dsp.lib
  gennum.lib
  graphic.lib		
