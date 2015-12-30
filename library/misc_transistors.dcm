@@ -1,9 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 2SA1016
+$CMP 2SA1015
 D 2SA1016, 50V Vce, 0.15A Ic, Low Noise Audio PNP Transistor, TO-92
 K Low Noise Audio PNP Transistor
-F http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf
+F http://pdf.datasheetcatalog.com/datasheet/toshiba/905.pdf
+$ENDCMP
+#
+$CMP 2SA1016
+D 2SA1016, 100V Vce, 0.05A Ic, High Voltage Low Noise Audio PNP Transistor, TO-92
+K High Voltage Low Noise Audio PNP Transistor
 $ENDCMP
 #
 $CMP 2SB631
@@ -24,6 +29,11 @@ $ENDCMP
 $CMP 2SC1941
 D 2SC1941, 160V Vce, 0.05A Ic, Audio High Voltage NPN Transistor,TO-92
 K Audio High Voltage NPN Transistor 2SC1941
+$ENDCMP
+#
+$CMP 2SC2362
+D 2SC2362, 100V Vce, 0.05A Ic, High Voltage Low Noise Audio NPN Transistor,TO-92
+K HV Low Noise Audio NPN Transistor
 $ENDCMP
 #
 $CMP 2SD1047
