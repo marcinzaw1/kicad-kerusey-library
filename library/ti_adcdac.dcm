@@ -12,6 +12,18 @@ K Low Power ADC 16bit SPI
 F http://www.ti.com/lit/ds/symlink/ads1118.pdf
 $ENDCMP
 #
+$CMP ADS1120IPW
+D ADS1120IPW, Low Power Low Noise Small Signal 16bit ADC, TSSOP-16
+K Low Power Low Noise 16bit ADC
+F http://www.ti.com/lit/ds/symlink/ads1120.pdf
+$ENDCMP
+#
+$CMP ADS1120RVA
+D ADS1120RVA, Low Power Low Noise Small Signal 16bit ADC, VQFP-16 (3.6 x 3.6 mm)
+K Low Power Low Noise 16bit ADC
+F http://www.ti.com/lit/ds/symlink/ads1120.pdf
+$ENDCMP
+#
 $CMP ADS1220IPW
 D ADS1220IPW, Low Power Low Noise Small Signal 24bit ADC, TSSOP-16
 K Low Power Low Noise 24bit ADC
