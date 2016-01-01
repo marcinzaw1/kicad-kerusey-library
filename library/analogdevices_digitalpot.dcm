@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5111BCPZ10
+D AD5111BCPZ10, NonVolatile Digital Potentiomenter, Up/Down, 128 tap, 10k, LFCSP-8
+K Digital Potentiometer 10k Up Down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5111_5113_5115.pdf
+$ENDCMP
+#
+$CMP AD5111BCPZ80
+D AD5111BCPZ80, NonVolatile Digital Potentiomenter, Up/Down, 128 tap, 80k, LFCSP-8
+K Digital Potentiometer 80k Up Down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5111_5113_5115.pdf
+$ENDCMP
+#
+$CMP AD5113BCPZ10
+D AD5113BCPZ10, NonVolatile Digital Potentiomenter, Up/Down, 64 tap, 10k, LFCSP-8
+K Digital Potentiometer 10k Up Down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5111_5113_5115.pdf
+$ENDCMP
+#
+$CMP AD5113BCPZ5
+D AD5113BCPZ5, NonVolatile Digital Potentiomenter, Up/Down, 64 tap, 5k, LFCSP-8
+K Digital Potentiometer 5k Up Down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5111_5113_5115.pdf
+$ENDCMP
+#
+$CMP AD5113BCPZ80
+D AD5113BCPZ80, NonVolatile Digital Potentiomenter, Up/Down, 64 tap, 80k, LFCSP-8
+K Digital Potentiometer 80k Up Down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5111_5113_5115.pdf
+$ENDCMP
+#
+$CMP AD5115BCPZ10
+D AD5115BCPZ10, NonVolatile Digital Potentiomenter, Up/Down, 32 tap, 10k, LFCSP-8
+K Digital Potentiometer 10k Up Down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5111_5113_5115.pdf
+$ENDCMP
+#
+$CMP AD5115BCPZ80
+D AD5115BCPZ80, NonVolatile Digital Potentiomenter, Up/Down, 32 tap, 80k, LFCSP-8
+K Digital Potentiometer 80k Up Down
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5111_5113_5115.pdf
+$ENDCMP
+#
+#End Doc Library
