@@ -10,6 +10,16 @@ D AUIPS7121R, 60V, 50A, Intelligent Power Switch High Side, TO-252-5 (DPAK)
 F http://www.irf.com/product-info/datasheets/data/auips7121.pdf
 $ENDCMP
 #
+$CMP AUIR3315
+D AUIR3315, 32V, 30A, Intelligent Power Switch High Side, TO-220-5
+F http://www.irf.com/product-info/datasheets/data/auir3315.pdf
+$ENDCMP
+#
+$CMP AUIR3315S
+D AUIR3315S, 32V, 30A, Intelligent Power Switch High Side, TO-263-5 (D2PAK)
+F http://www.irf.com/product-info/datasheets/data/auips7111s.pdf
+$ENDCMP
+#
 $CMP IPS6011PBF
 D IPS6011PbF, 39V, 60A, Intelligent Power Switch High Side, TO220-5
 K  Intelligent Power Switch High Side MOSFET
