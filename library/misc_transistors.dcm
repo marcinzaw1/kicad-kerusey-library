@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2SA1488
+D 2SA1488, 80V Vce, 4A Ic, Power Amplifier PNP transistor, TO-220
+K Power PNP Transistor
+F http://www.semicon.sanken-ele.co.jp/sk_content/2sa1488_ds_en.pdf
+$ENDCMP
+#
+$CMP 2SC3851
+D 2SC3851, 80V Vce, 4A Ic, Power Amplifier NPN transistor, TO-220
+K Power NPN Transistor
+F http://www.semicon.sanken-ele.co.jp/sk_content/2sc3851_ds_en.pdf
+$ENDCMP
+#
 $CMP 3SK263
 D 3SK263, 15V Vds, 0.03A Id, 1.1dB NF, Dual Gate N-Channel MOSFET, SOT-143
 K Dual Gate N-Channel RF MOSFET
@@ -398,13 +410,13 @@ $ENDCMP
 #
 $CMP BD910
 D BD910, 15A, Silicon Power Transistors PNP
-K  Power Transistor PNP
+K Power Transistor PNP
 F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001277.pdf
 $ENDCMP
 #
 $CMP BD911
 D BD911, 15A, Silicon Power Transistors NPN
-K  Power Transistor NPN
+K Power Transistor NPN
 F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001277.pdf
 $ENDCMP
 #

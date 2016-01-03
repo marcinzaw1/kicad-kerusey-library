@@ -1,6 +1,6 @@
 ﻿
     Kerusey Karyu KiCad Libraries
-    Copyright (C) 2014  Kerusey Karyu
+    Copyright (C) 2016  Kerusey Karyu
 
     This libraries are free software; you can redistribute them and/or
     modify them under the terms of the GNU Library General Public
@@ -19,10 +19,10 @@
 
     Some symbols were created based upon work of KiCad library contributors.
     Special acknowledge to:
-      
-      Members of KiCad Library Committers
-      
+     
       Žiga Stegu          ObKo
       Jason Work          Pablo Andrés
       Arun Isaac          Mateusz Krawczuk
-      Ricardo Crudo
+      Ricardo Crudo       Tahiro Hashizume
+
+    and members of KiCad Library Committers
