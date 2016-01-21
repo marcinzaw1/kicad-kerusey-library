@@ -55,7 +55,7 @@ D Connector 5 pin
 K Connector Device
 $ENDCMP
 #
-$CMP CONN_5x2
+$CMP CONN_5X2
 D Standard IDC10 Male Connector
 K IDC10 Male Connector Device
 $ENDCMP
@@ -75,7 +75,7 @@ D Connector 8 pin
 K Connector Device
 $ENDCMP
 #
-$CMP CONN_8x2
+$CMP CONN_8X2
 D Standard IDC16 Male Connector
 K IDC16 Male Connector Device
 $ENDCMP
