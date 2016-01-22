@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 2013-05-28 17:25:55
+EESchema-DOCLIB  Version 2.0
 #
 $CMP BTM112
 D BTM112, Bluetooth SPP Module, UART, Class 2
@@ -8,6 +8,18 @@ $ENDCMP
 $CMP BTM222
 D BTM222, Bluetooth SPP Module, UART, Class 1
 K Bluetooth BT SPP Module
+$ENDCMP
+#
+$CMP NEO-7M
+D NEO-7M, Low Power GPS/GLONASS Receiver, SPI, I2C, UART, USB, ROM
+K GPS GLONASS Module
+F http://versalogic.com/support/Downloads/MPEu-G2/NEO-7_DataSheet_(GPS.G7-HW-11004).pdf
+$ENDCMP
+#
+$CMP NEO-7N
+D NEO-7N, Low Power GPS/GLONASS Receiver, SPI, I2C, UART, USB, Flash programmable
+K GPS GLONASS Module
+F http://versalogic.com/support/Downloads/MPEu-G2/NEO-7_DataSheet_(GPS.G7-HW-11004).pdf
 $ENDCMP
 #
 $CMP SIM900
