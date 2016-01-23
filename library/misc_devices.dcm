@@ -265,6 +265,11 @@ D Crystal Oscillator Quartz
 K XTAL Crystal Resonator Quartz Device
 $ENDCMP
 #
+$CMP XTAL4PIN
+D Crystal Oscillator Quartz
+K XTAL Crystal Resonator Quartz Device
+$ENDCMP
+#
 $CMP ZENER
 D Diode Zener
 K Diode Device Rectifier Zener Device
