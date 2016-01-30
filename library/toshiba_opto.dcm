@@ -97,6 +97,12 @@ K DC Digital Optocoupler
 F http://www.toshiba-components.com/docs/opto/TLP2366_en_datasheet.pdf
 $ENDCMP
 #
+$CMP TLP250
+D TLP250, DIP8, DC Optocoupler, IGBT/MOSFET Driver, Output 35V 1.5A 0.5us
+K DC Optocoupler IGBT MOSFET Driver
+F http://toshiba.semicon-storage.com/info/docget.jsp?pid=TLP250&lang=en&type=datasheet
+$ENDCMP
+#
 $CMP TLP284-4
 D TLP284-4, SOP16, 4ch AC/DC Optocoupler, Vce 80V, CTR 50-100%
 K NPN AC DC 4ch Optocoupler
