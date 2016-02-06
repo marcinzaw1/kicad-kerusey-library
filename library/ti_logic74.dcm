@@ -41,15 +41,33 @@ K Six NOT Inverter OD Buffer
 F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
 $ENDCMP
 #
+$CMP 74LS07
+D 74LS07, Six Gate Buffer/Dirver Open Drain
+K Six OD Buffer
+F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
+$ENDCMP
+#
 $CMP 74LS08
 D 74LS08, Quad 2 Input AND Gate
 K Quad AND
 F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
 $ENDCMP
 #
+$CMP 74LS09
+D 74LS09, Quad 2 Input AND Gate Open Collector
+K Quad AND OC
+F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
+$ENDCMP
+#
 $CMP 74LS10
 D 74LS10, Triple 3 Input NAND Gate
 K Triple NAND
+F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
+$ENDCMP
+#
+$CMP 74LS11
+D 74LS11, Triple 3 Input AND Gate
+K Triple AND
 F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
 $ENDCMP
 #
@@ -71,9 +89,21 @@ K 3-8 Decoder Enable
 F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
 $ENDCMP
 #
+$CMP 74LS14
+D 74LS14, Six Inverter Gate with Schmitt Trigger
+K Six NOT Inverter Schmitt 
+F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
+$ENDCMP
+#
 $CMP 74LS157
 D 74LS157, Quad 2 Input Multiplexer
 K Quad 2-1 Miltiplexer
+F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
+$ENDCMP
+#
+$CMP 74LS16
+D 74LS16, Six Inverter Gate Buffer/Dirver Open Drain High Voltage Output
+K Six NOT Inverter OD Buffer HV
 F http://www.ti.com/lit/sl/scyd013b/scyd013b.pdf
 $ENDCMP
 #
