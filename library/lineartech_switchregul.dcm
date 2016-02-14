@@ -294,4 +294,16 @@ K DC Converter 400mA 5V
 F http://cds.linear.com/docs/en/datasheet/3525fb.pdf
 $ENDCMP
 #
+$CMP LTC3630EDHC
+D LTC3630EDHC, 65V 500mA Synchronus Step-Down Converter, DFN-16-EP
+K DC-DC Step Down
+F http://cds.linear.com/docs/en/datasheet/3630fd.pdf
+$ENDCMP
+#
+$CMP LTC3630EMSE
+D LTC3630EMSE, 65V 500mA Synchronus Step-Down Converter, MSOP-16-EP
+K DC-DC Step Down
+F http://cds.linear.com/docs/en/datasheet/3630fd.pdf
+$ENDCMP
+#
 #End Doc Library
