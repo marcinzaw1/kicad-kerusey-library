@@ -1057,6 +1057,66 @@ K HEXFET N-Channel MOSFET
 F http://www.irf.com/product-info/datasheets/data/irlz44n.pdf
 $ENDCMP
 #
+$CMP KRA101M
+D KRA101M, Digital Transistor, 4k7/4k7, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRA102M
+D KRA102M, Digital Transistor, 10k/10k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRA103M
+D KRA103M, Digital Transistor, 22k/22k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRA104M
+D KRA104M, Digital Transistor, 47k/47k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRA105M
+D KRA105M, Digital Transistor, 2k2/47k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRA106M
+D KRA106M, Digital Transistor, 4k7/47k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRC101M
+D KRC101M, Digital Transistor, 4k7/4k7, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRC102M
+D KRC102M, Digital Transistor, 10k/10k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRC103M
+D KRC103M, Digital Transistor, 22k/22k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRC104M
+D KRC104M, Digital Transistor, 47k/47k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRC105M
+D KRC105M, Digital Transistor, 2k2/47k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
+$CMP KRC106M
+D KRC106M, Digital Transistor, 4k7/47k, TO-92M
+K KEC Digital Transistor
+$ENDCMP
+#
 $CMP MJE13003
 D MJE13003, 1.5A Ic, 400V Vce, Silicon Switching Power Transistor NPN, TO225
 K Switching Power High Voltage Transistor NPN
