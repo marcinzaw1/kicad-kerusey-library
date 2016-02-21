@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAX1044CPA
+D MAX1044, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://pdfserv.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf
+$ENDCMP
+#
+$CMP MAX1044CSA
+D MAX1044, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://pdfserv.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf
+$ENDCMP
+#
 $CMP MAX5035AASA
 D MAX5035AASA, 3.3V 1A, High-Efficiency Step-Down DC-DC Converter, Vin 76V, High Temperature Grade, SO8
 K 3.3V 1A Step-Down Converter 76V Hi-Temp

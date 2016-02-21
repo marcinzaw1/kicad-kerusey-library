@@ -195,6 +195,30 @@ K Adjustable 3A 52KHz Buck DC/DC
 F http://www.dianyuan.com/bbs/u/54/437861181916300.pdf
 $ENDCMP
 #
+$CMP ICL7660ACPA
+D ICL7660ACPA, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://www.intersil.com/content/dam/Intersil/documents/icl7/icl7660.pdf
+$ENDCMP
+#
+$CMP ICL7660AIBA
+D ICL7660AIBA, Switched Capacitor Voltage Converter, SO-8
+K DC-DC Converter Inverter
+F http://www.intersil.com/content/dam/Intersil/documents/icl7/icl7660.pdf
+$ENDCMP
+#
+$CMP ICL7660CBA
+D ICL7660CBA, Switched Capacitor Voltage Converter, SO-8
+K DC-DC Converter Inverter
+F http://www.intersil.com/content/dam/Intersil/documents/icl7/icl7660.pdf
+$ENDCMP
+#
+$CMP ICL7660CPA
+D ICL7660CPA, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://www.intersil.com/content/dam/Intersil/documents/icl7/icl7660.pdf
+$ENDCMP
+#
 $CMP ISL8117FRZ
 D ISL8117FRZ, Synchronus Step-Down PWM Controller, 60V, QFN-16 (4x4 P0.5mm)
 K Step-Down Controller DC-DC
