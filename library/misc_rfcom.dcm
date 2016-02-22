@@ -22,6 +22,18 @@ K GPS GLONASS Module
 F http://versalogic.com/support/Downloads/MPEu-G2/NEO-7_DataSheet_(GPS.G7-HW-11004).pdf
 $ENDCMP
 #
+$CMP RN42
+D RN42, Class 2 Bluetooth Module with On-Board Antenna
+K Bluetooth Module
+F http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf
+$ENDCMP
+#
+$CMP RN42N
+D RN42N, Class 2 Bluetooth Module
+K Bluetooth Module
+F http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf
+$ENDCMP
+#
 $CMP SIM900
 D SIM900, GSM Quad-Band Communication Module, GPRS, Audio Engine, AT Command Set
 K GSM GPRS Quad-Band SMS FAX

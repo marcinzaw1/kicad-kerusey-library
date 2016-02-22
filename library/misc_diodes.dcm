@@ -12,6 +12,42 @@ K Small HiSpeed Diode 70V
 F http://www.nxp.com/documents/data_sheet/BAL99.pdf
 $ENDCMP
 #
+$CMP BAS16
+D BAS16, Small HiSpeed Diode, Vr 100V, Ifm 200mA, SOT-23
+K Small HiSpeed Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAS16_SER.pdf
+$ENDCMP
+#
+$CMP BAS16T
+D BAS16T, Small HiSpeed Diode, Vr 100V, Ifm 200mA, SOT-416 (SC-75)
+K Small HiSpeed Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAS16_SER.pdf
+$ENDCMP
+#
+$CMP BAS16TW
+D BAS16TW, Triple Small Diode, Vr 100V, Ifm 300mA, SOT-363
+K Triple Small Diode 100V
+F http://www.diodes.com/_files/datasheets/ds30154.pdf
+$ENDCMP
+#
+$CMP BAS16VV
+D BAS16VV, Triple Small Diode, Vr 100V, Ifm 175mA, SOT-666
+K Triple Small Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAS16_SER.pdf
+$ENDCMP
+#
+$CMP BAS16VY
+D BAS16VY, Triple Small Diode, Vr 100V, Ifm 175mA, SOT-363
+K Triple Small Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAS16_SER.pdf
+$ENDCMP
+#
+$CMP BAS16W
+D BAS16W, Small HiSpeed Diode, Vr 100V, Ifm 200mA, SOT-323 (SC-70)
+K Small HiSpeed Diode 100V
+F http://www.nxp.com/documents/data_sheet/BAS16_SER.pdf
+$ENDCMP
+#
 $CMP BAT54ADW
 D BAT54ADW, Double Small Dual Diode, Common Anode, Vr 30V, Ifm 200mA, SOT-563
 K Double Small Dual Diode Common Anode 30V
@@ -150,6 +186,12 @@ K Double Small Dual Diode Common Anode 100V
 F http://www.diodes.com/_files/datasheets/ds30146.pdf
 $ENDCMP
 #
+$CMP CMKD6001
+D CMKD6001, Triple Small Diode, Vr 75V, Ifm 250mA, SOT-363
+K Triple Small Diode 75V
+F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=CMKD6001.PDF
+$ENDCMP
+#
 $CMP DZ23CXX
 D DZ23Cxx, Small Dual Zener Diode Common Cathode, Vz 2V7-51V, 300mW, SOT-23
 K Small Dual Zener Diode Common Cathode 2V7-51V
@@ -159,6 +201,12 @@ $ENDCMP
 $CMP HN1D01FU
 D HN1D01FU, Double Small Dual Diode, Common Anode, Vr 80V, Ifm 300mA, SOT-563
 K Double Small Dual Diode Common Anode 80V
+$ENDCMP
+#
+$CMP MMBD4148TW
+D MMBD4148TW, Triple Small Diode, Vr 100V, Ifm 300mA, SOT-363
+K Triple Small Diode 100V
+F http://www.diodes.com/_files/datasheets/ds30154.pdf
 $ENDCMP
 #
 $CMP MMBD4448HADW
