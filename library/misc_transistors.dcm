@@ -150,6 +150,12 @@ K BC807 BC327 Equivalent
 F http://www.fairchildsemi.com/ds/BC/BC807.pdf
 $ENDCMP
 #
+$CMP BC807DS
+D BC807DS, 45V Vce, 0.5A Ic, Dual PNP, SOT-457 (SC-74)
+K Dual BC807 BC327 Equivalent
+F http://www.nxp.com/documents/data_sheet/BC807DS.pdf
+$ENDCMP
+#
 $CMP BC808-40
 D BC808-40, 25V Vce, 0.8A Ic, PNP, SOT-23
 K BC808 BC328 Equivalent
