@@ -12,6 +12,18 @@ K RS485 Half Duplex
 F http://datasheets.maximintegrated.com/en/ds/MAX13450E-MAX13451E.pdf
 $ENDCMP
 #
+$CMP MAX1487CPA
+D MAX1487CPA, RS-485/RS-422 Transciever, Half Duplex, 2.5Mb/s, PDIP-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX1487CSA
+D MAX1487CSA, RS-485/RS-422 Transciever, Half Duplex, 2.5Mb/s, SO-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
 $CMP MAX202
 D MAX202, Level Shifter for RS232 (EIA/TIA-232E), 64kB/s Throughput, DIP16/SO16
 K EIA/TIA-232E LEVEL SHIFTER 64kB/s
@@ -100,6 +112,102 @@ $CMP MAX31855TASA
 D MAX31855TASA, Cold Junction T-type Termocouple Interface, SPI, SO8
 K Cold Junction Termocouple Interface SPI
 F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX481CPA
+D MAX481CPA, RS-485/RS-422 Transciever, Half Duplex, 2.5Mb/s, PDIP-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX481CSA
+D MAX481CSA, RS-485/RS-422 Transciever, Half Duplex, 2.5Mb/s, SO-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX483CPA
+D MAX483CPA, RS-485/RS-422 Transciever, Half Duplex, 0.25Mb/s, PDIP-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX483CSA
+D MAX483CSA, RS-485/RS-422 Transciever, Half Duplex, 0.25Mb/s, SO-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX485CPA
+D MAX485CPA, RS-485/RS-422 Transciever, Half Duplex, 2.5Mb/s, PDIP-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX485CSA
+D MAX485CSA, RS-485/RS-422 Transciever, Half Duplex, 2.5Mb/s, SO-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX487CPA
+D MAX487CPA, RS-485/RS-422 Transciever, Half Duplex, 0.25Mb/s, PDIP-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX487CSA
+D MAX487CSA, RS-485/RS-422 Transciever, Half Duplex, 0.25Mb/s, SO-8
+K RS-485 RS-422 Half Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX488CPA
+D MAX488CPA, RS-485/RS-422 Transciever, Full Duplex, 0.25Mb/s, PDIP-8
+K RS-485 RS-422 Full Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX488CSA
+D MAX488CSA, RS-485/RS-422 Transciever, Full Duplex, 0.25Mb/s, SO-8
+K RS-485 RS-422 Full Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX489CPA
+D MAX489CPA, RS-485/RS-422 Transciever, Full Duplex, 0.25Mb/s, PDIP-14
+K RS-485 RS-422 Full Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX489CSA
+D MAX489CSA, RS-485/RS-422 Transciever, Full Duplex, 0.25Mb/s, SO-14
+K RS-485 RS-422 Full Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX490CPA
+D MAX490CPA, RS-485/RS-422 Transciever, Full Duplex, 2.5Mb/s, PDIP-8
+K RS-485 RS-422 Full Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX490CSA
+D MAX490CSA, RS-485/RS-422 Transciever, Full Duplex, 2.5Mb/s, SO-8
+K RS-485 RS-422 Full Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX491CPA
+D MAX491CPA, RS-485/RS-422 Transciever, Full Duplex, 2.5Mb/s, PDIP-14
+K RS-485 RS-422 Full Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+$CMP MAX491CSA
+D MAX491CSA, RS-485/RS-422 Transciever, Full Duplex, 2.5Mb/s, SO-14
+K RS-485 RS-422 Full Duplex
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
 $ENDCMP
 #
 $CMP MAX5160LEUA
