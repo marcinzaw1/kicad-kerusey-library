@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP A1230LK-T
+D A1301KUA-T, Ultra-Sensitive Dual-Channel Quadrature Hall Effect Switch, SIP 3pin
+K Hall Sensor
+F http://www.allegromicro.com/~/media/Files/Datasheets/A1230-Datasheet.ashx
+$ENDCMP
+#
+$CMP A1230LLTR-T
+D A1230LLTR-T, Ultra-Sensitive Dual-Channel Quadrature Hall Effect Switch, SOIC-8
+K Hall Sensor
+F http://www.allegromicro.com/~/media/Files/Datasheets/A1230-Datasheet.ashx
+$ENDCMP
+#
 $CMP A1301EUA-T
 D A1301EUA-T, Linear Hall Effect Sensor, SIP 3pin
 K Hall Sensor
