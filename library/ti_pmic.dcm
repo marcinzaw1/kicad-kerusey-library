@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS65217ARSL
+D TPS65217ARSL, Power Management Controller for Battery Powered Systems, 1.8/3.3/1.1V, VQFN-48
+K PMIC Power Controller Battery
+F http://www.ti.com/lit/ds/symlink/tps65217.pdf
+$ENDCMP
+#
+$CMP TPS65217BRSL
+D TPS65217BRSL, Power Management Controller for Battery Powered Systems, 1.8/1.1/1.1, VQFN-48
+K PMIC Power Controller Battery
+F http://www.ti.com/lit/ds/symlink/tps65217.pdf
+$ENDCMP
+#
+$CMP TPS65217CRSL
+D TPS65217CRSL, Power Management Controller for Battery Powered Systems, 1.5/1.1/1.1, VQFN-48
+K PMIC Power Controller Battery
+F http://www.ti.com/lit/ds/symlink/tps65217.pdf
+$ENDCMP
+#
+$CMP TPS65217DRSL
+D TPS65217DRSL, Power Management Controller for Battery Powered Systems, 1.35/1.1/1.1, VQFN-48
+K PMIC Power Controller Battery
+F http://www.ti.com/lit/ds/symlink/tps65217.pdf
+$ENDCMP
+#
+#End Doc Library

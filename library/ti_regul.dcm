@@ -516,6 +516,12 @@ K LowDrop Linear Regulator Adjustable 3A
 F http://www.ti.com/lit/ds/symlink/lp3966.pdf
 $ENDCMP
 #
+$CMP TL5209DR
+D TL5209DR, 500mA Adjustable LDO Regulator, SOIC-8
+K Voltage Regulator Adjustable 500mA Positive
+F http://www.ti.com/lit/ds/symlink/tl5209.pdf
+$ENDCMP
+#
 $CMP TLV70012DCK
 D TLV70012DCK, 200 mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SC70-5
 K 200mA LDO Regulator Fixed Positive
