@@ -1,5 +1,53 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LT1054CN8
+D LT1054CN8, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/1054lfh.pdf
+$ENDCMP
+#
+$CMP LT1054CS8
+D LT1054CS8, Switched Capacitor Voltage Converter, SOIC-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/1054lfh.pdf
+$ENDCMP
+#
+$CMP LT1054CSW
+D LT1054CSW, Switched Capacitor Voltage Converter, SOIC-16
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/1054lfh.pdf
+$ENDCMP
+#
+$CMP LT1054IN8
+D LT1054IN8, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/1054lfh.pdf
+$ENDCMP
+#
+$CMP LT1054IS8
+D LT1054IS8, Switched Capacitor Voltage Converter, SOIC-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/1054lfh.pdf
+$ENDCMP
+#
+$CMP LT1054ISW
+D LT1054ISW, Switched Capacitor Voltage Converter, SOIC-16
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/1054lfh.pdf
+$ENDCMP
+#
+$CMP LT1054LCS8
+D LT1054LCS8, Switched Capacitor Voltage Converter, SOIC-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/1054lfh.pdf
+$ENDCMP
+#
+$CMP LT1054MJ8
+D LT1054MJ8, Switched Capacitor Voltage Converter, CDIP-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/1054lfh.pdf
+$ENDCMP
+#
 $CMP LT1108CN8
 D LT1108CN8, Adjustable Micropower Switching Regulator, DIP8
 K Micropower DC-DC Converter
@@ -214,6 +262,24 @@ $CMP LT3757MPMSE
 D LT3757MPMSE, Boost, Flyback, SEPIC and Inverting Regulator, MSOP10 w/Bottom Pad
 K Boost Flyback SEPIC Inverting Regulator
 F http://cds.linear.com/docs/en/datasheet/3757Afd.pdf
+$ENDCMP
+#
+$CMP LTC1044CJ8
+D LTC1044CJ8, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/lt1044.pdf
+$ENDCMP
+#
+$CMP LTC1044CN8
+D LTC1044CN8, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/lt1044.pdf
+$ENDCMP
+#
+$CMP LTC1044MJ8
+D LTC1044MJ8, Switched Capacitor Voltage Converter, DIP-8
+K DC-DC Converter Inverter
+F http://cds.linear.com/docs/en/datasheet/lt1044.pdf
 $ENDCMP
 #
 $CMP LTC1624CS8

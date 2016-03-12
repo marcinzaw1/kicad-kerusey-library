@@ -30,7 +30,19 @@ K Direct Digital Synthesizer DDS RoHS
 F http://www.analog.com/static/imported-files/data_sheets/AD9951.pdf
 $ENDCMP
 #
-$CMP ADuM1200AR
+$CMP ADM101EARM
+D ADM101EARM, Tiny RS232 Transciever, MSOP-10
+K RS232 Interface
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM101E.pdf
+$ENDCMP
+#
+$CMP ADM101EARMZ
+D ADM101EARMZ, Tiny RS232 Transciever, MSOP-10
+K RS232 Interface
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM101E.pdf
+$ENDCMP
+#
+$CMP ADUM1200AR
 D ADuM1200AR, Dual-Channel Digital Isolator, 1Mbps 150ns, SO8
 K 2Ch Dual Digital Isolator 1Mbps
 F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
@@ -66,7 +78,7 @@ K 2Ch Dual Digital Isolator 25Mbps
 F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
 $ENDCMP
 #
-$CMP ADuM1201AR
+$CMP ADUM1201AR
 D ADuM1201AR, Dual-Channel Digital Isolator, 1Mbps 150ns, SO8
 K 2Ch Dual Digital Isolator 1Mbps
 F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
@@ -102,13 +114,13 @@ K 2Ch Dual Digital Isolator 25Mbps
 F http://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf
 $ENDCMP
 #
-$CMP ADuM4160BRIZ
+$CMP ADUM4160BRIZ
 D ADuM4160BRIZ, Full/Low USB Digital Isolator 5kV, SOIC-16 Increased Creepage
 K USB Isolation
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM4160.pdf
 $ENDCMP
 #
-$CMP ADuM4160BRWZ
+$CMP ADUM4160BRWZ
 D ADuM4160BRWZ, Full/Low USB Digital Isolator 5kV, SOIC-16
 K USB Isolation
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM4160.pdf
