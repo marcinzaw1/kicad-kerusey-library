@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM5060MM/NOPB
+D LM5060MM, High Side Protection Voltage Controller, VSSOP-10
+K Protection Voltage Controller
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm5060-q1.pdf
+$ENDCMP
+#
+$CMP LM5060Q1MM/NOPB
+D LM5060Q1MM, High Side Protection Voltage Controller, VSSOP-10
+K Protection Voltage Controller
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm5060-q1.pdf
+$ENDCMP
+#
 $CMP TPS65217ARSL
 D TPS65217ARSL, Power Management Controller for Battery Powered Systems, 1.8/3.3/1.1V, VQFN-48
 K PMIC Power Controller Battery
