@@ -979,6 +979,12 @@ K Dual N-Channel MOSFET Logic Level
 F http://www.fairchildsemi.com/ds/FD/FDG1024NZ.pdf
 $ENDCMP
 #
+$CMP FDS4953
+D FDS4953, 30V Vds, 5A Id, 55mOhm Rds, Dual P-Channel MOSFET, SO-8
+K Dual P-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/FD/FDS4953.pdf
+$ENDCMP
+#
 $CMP FDS6890A
 D FDS6890A, 20V Vds, 7.5A Id, 18mOhm Rds, Dual N-Channel MOSFET, SO-8
 K Dual N-Channel MOSFET
