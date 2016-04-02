@@ -29,6 +29,11 @@ K LCD 16x2 Alphanumeric 16pin
 F http://www.icbank.com/data/ICBShop/board/HY1602E.pdf
 $ENDCMP
 #
+$CMP IL9341-SD
+D ILI9341 Color 320x240 SPI TFT LCD,  9+4pin Interface with SD Card
+K Color LCD Graphics 320x240
+$ENDCMP
+#
 $CMP LCD16X2
 D WC1602A0-SFYLYNC06, Generic Alphanumeric LCD 16x2, 16pin, Green Backlight
 K LCD 16x2 Alphanumeric 16pin
