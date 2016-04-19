@@ -1,5 +1,80 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FAN2518S25X
+D FAN2518S25X, Positive 50mA 7V LDO, Fixed Output 2.5V, SOT-23-5
+K Voltage Regulator 2.5V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2518S26X
+D FAN2518S26X, Positive 50mA 7V LDO, Fixed Output 2.6V, SOT-23-5
+K Voltage Regulator 2.6V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2518S27X
+D FAN2518S27X, Positive 50mA 7V LDO, Fixed Output 2.7V, SOT-23-5
+K Voltage Regulator 2.7V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2518S285X
+D FAN2518S285X, Positive 50mA 7V LDO, Fixed Output 2.85V, SOT-23-5
+K Voltage Regulator 2.85V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2518S28X
+D FAN2518S28X, Positive 50mA 7V LDO, Fixed Output 2.8V, SOT-23-5
+K Voltage Regulator 2.8V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2518S30X
+D FAN2518S30X, Positive 50mA 7V LDO, Fixed Output 3.0V, SOT-23-5
+K Voltage Regulator 3.0V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2518S33X
+D FAN2518S33X, Positive 50mA 7V LDO, Fixed Output 3.3V, SOT-23-5
+K Voltage Regulator 3.3V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2518SX
+D FAN2518SX, Positive 50mA 7V LDO, Adjustable Output, SOT-23-5
+K Adjustable Voltage Regulator 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2519S25X
+D FAN2519S25X, Positive 50mA 7V LDO, Fixed Output 2.5V, SOT-23-5
+K Voltage Regulator 2.5V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2519S26X
+D FAN2519S26X, Positive 50mA 7V LDO, Fixed Output 2.6V, SOT-23-5
+K Voltage Regulator 2.6V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2519S27X
+D FAN2519S27X, Positive 50mA 7V LDO, Fixed Output 2.7V, SOT-23-5
+K Voltage Regulator 2.7V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2519S285X
+D FAN2519S285X, Positive 50mA 7V LDO, Fixed Output 2.85V, SOT-23-5
+K Voltage Regulator 2.85V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2519S28X
+D FAN2519S28X, Positive 50mA 7V LDO, Fixed Output 2.8V, SOT-23-5
+K Voltage Regulator 2.8V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2519S30X
+D FAN2519S30X, Positive 50mA 7V LDO, Fixed Output 3.0V, SOT-23-5
+K Voltage Regulator 3.0V 50mA Positive LDO
+$ENDCMP
+#
+$CMP FAN2519S33X
+D FAN2519S33X, Positive 50mA 7V LDO, Fixed Output 3.3V, SOT-23-5
+K Voltage Regulator 3.3V 50mA Positive LDO
+$ENDCMP
+#
 $CMP KA378R05
 D KA378R05, Positive 3A 35V Linear Regulator with Disable Pin, LDO, Fixed Output 5V, TO-220F-4L
 K Voltage Regulator 3A Positive LDO Disable Pin
