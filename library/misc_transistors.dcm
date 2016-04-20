@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2N7002
+D 2N7002, 60V Vds, 0.3A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.nxp.com/documents/data_sheet/2N7002.pdf
+$ENDCMP
+#
 $CMP 2SA1488
 D 2SA1488, 80V Vce, 4A Ic, Power Amplifier PNP transistor, TO-220
 K Power PNP Transistor
