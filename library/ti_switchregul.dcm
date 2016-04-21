@@ -702,6 +702,18 @@ K Regulator Step-Down Charge Pump TPS Texas Instruments Ti
 F http://www.ti.com/lit/ds/symlink/tps60503.pdf
 $ENDCMP
 #
+$CMP TPS62175DQC
+D TPS62175DQC, 28V 500mA, Adjustable Step-down Converter, WSON-10+EP
+K DC-DC Adjustable 500mA
+F http://www.ti.com/lit/ds/symlink/tps62177.pdf
+$ENDCMP
+#
+$CMP TPS62177DQC
+D TPS62177DQC, 28V 500mA, Fixed 3,3V Step-down Converter, WSON-10+EP
+K DC-DC 3,3V 500mA
+F http://www.ti.com/lit/ds/symlink/tps62177.pdf
+$ENDCMP
+#
 $CMP TPS62200DBV
 D TPS62200DBV, SOT23-5, High-Efficiency Step-Down DC-DC Converter, Adjustable
 K TPS62200DBV Step-Down DC-DC Converter SOT23-5
