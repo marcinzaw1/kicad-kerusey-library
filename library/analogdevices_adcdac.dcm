@@ -36,6 +36,12 @@ K 8bit DAC Reference Single Supply
 F http://www.analog.com/static/imported-files/data_sheets/AD558.pdf
 $ENDCMP
 #
+$CMP AD7171BCPZ
+D AD7171BCPZ, 16bit Sigma-Delta ADC, LFCSP-10
+K ADC 16bit
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD7171.pdf
+$ENDCMP
+#
 $CMP AD7224KN
 D AD7224KN, 8bit DAC, Dual or Single Supply, DIP18
 K 8bit DAC Dual Single Supply
