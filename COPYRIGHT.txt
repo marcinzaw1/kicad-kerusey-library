@@ -24,6 +24,6 @@
       Jason Work          Pablo Andrés
       Arun Isaac          Mateusz Krawczuk
       Ricardo Crudo       Tahiro Hashizume
-      Trorogohan
+      Trorogohan          Joel Guittet
 
     and members of KiCad Library Committers
