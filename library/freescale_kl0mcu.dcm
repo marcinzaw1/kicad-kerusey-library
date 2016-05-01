@@ -156,6 +156,12 @@ K ARM Cortex-M0+ MCU Kinetis KL02
 F http://cache.freescale.com/files/32bit/doc/data_sheet/KL02P32M48SF0.pdf
 $ENDCMP
 #
+$CMP MKL02Z32CAF4R
+D MKL02Z32CAF4R, 32KB Flash, 4KB SRAM, 48MHz ARM Cortex-M0+ Microcontroller, WLCSP-20
+K ARM Cortex-M0+ MCU Kinetis KL02
+F http://cache.nxp.com/files/32bit/doc/data_sheet/KL02P20M48SF0.pdf
+$ENDCMP
+#
 $CMP MKL02Z32VFG4
 D MKL02Z32VFG4, 32KB Flash, 4KB SRAM, 48MHz ARM Cortex-M0+ Microcontroller, QFN-16
 K ARM Cortex-M0+ MCU Kinetis KL02
