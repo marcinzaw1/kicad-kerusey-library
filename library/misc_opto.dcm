@@ -28,6 +28,12 @@ K DC Optocoupler IGBT MOSFET Driver
 F http://docs.avagotech.com/docs/AV02-0161EN
 $ENDCMP
 #
+$CMP HCPL-316J
+D HCPL-316J, 2.5A Gate Driver Optocoupler, Desaturation Detector and Fault Signal, SO-16
+K Gate Driver
+F http://docs.avagotech.com/docs/AV02-0717EN
+$ENDCMP
+#
 $CMP NSL-32
 D NSL-32SR3, Opto Resistor
 K Opto Resistor

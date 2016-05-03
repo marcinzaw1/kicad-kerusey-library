@@ -336,10 +336,28 @@ K Step-Down Regulator 600mA 1.8V
 F http://cds.linear.com/docs/en/datasheet/3406fa.pdf
 $ENDCMP
 #
+$CMP LTC3429BES6
+D LTC3429BES6, Adjustable 500mA Micropower Synchronous Step-Up DC/DC Converter with Output Disconnect, TSOT-23-6
+K DC Converter 400mA 3V
+F http://cds.linear.com/docs/en/datasheet/3429fa.pdf
+$ENDCMP
+#
+$CMP LTC3429ES6
+D LTC3429ES6, Adjustable 500mA Micropower Synchronous Step-Up DC/DC Converter with Output Disconnect, TSOT-23-6
+K DC Converter 400mA 3V
+F http://cds.linear.com/docs/en/datasheet/3429fa.pdf
+$ENDCMP
+#
 $CMP LTC3442EDE
 D LTC3442EDE, Micropower Synchronous Buck-Boost DC/DC Converter with Automatic Burst Mode Operation, DFN12 (4x3mm)
 K Micropower Synchronous Buck-Boost DC/DC Converter
 F http://cds.linear.com/docs/en/datasheet/3442fb.pdf
+$ENDCMP
+#
+$CMP LTC3525DESC6-3.3
+D LTC3525DESC6-3.3, 3.3V 400mA Micropower Synchronous Step-Up DC/DC Converter with Output Disconnect, SC70-6
+K DC Converter 400mA 3.3V
+F http://cds.linear.com/docs/en/datasheet/3525d33fb.pdf
 $ENDCMP
 #
 $CMP LTC3525ESC6-3
@@ -358,6 +376,12 @@ $CMP LTC3525ESC6-5
 D LTC3525ESC6-5, 5V 400mA Micropower Synchronous Step-Up DC/DC Converter with Output Disconnect, SC70-6
 K DC Converter 400mA 5V
 F http://cds.linear.com/docs/en/datasheet/3525fb.pdf
+$ENDCMP
+#
+$CMP LTC3525LESC6-3
+D LTC3525LESC6-3, 3V 400mA Micropower Synchronous Step-Up DC/DC Converter with Output Disconnect, SC70-6
+K DC Converter 400mA 3V
+F http://cds.linear.com/docs/en/datasheet/3525laf.pdf
 $ENDCMP
 #
 $CMP LTC3630EDHC
