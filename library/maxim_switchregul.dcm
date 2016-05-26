@@ -12,6 +12,30 @@ K DC-DC Converter Inverter
 F http://pdfserv.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf
 $ENDCMP
 #
+$CMP MAX17502EATB
+D MAX17502EATB, Fixed 3.3V 1A, High Voltage Synchronus Step-Down Converter, TDFN-10
+K 1A 3.3V Step-Down Converter 60V
+F https://datasheets.maximintegrated.com/en/ds/MAX17502.pdf
+$ENDCMP
+#
+$CMP MAX17502FATB
+D MAX17502FATB, Fixed 5V 1A, High Voltage Synchronus Step-Down Converter, TDFN-10
+K 1A 5V Step-Down Converter 60V
+F https://datasheets.maximintegrated.com/en/ds/MAX17502.pdf
+$ENDCMP
+#
+$CMP MAX17502GATB
+D MAX17502GATB, Adjustable 1A, High Voltage Synchronus Step-Down Converter, TDFN-10
+K 1A Adjustable Step-Down Converter 60V
+F https://datasheets.maximintegrated.com/en/ds/MAX17502.pdf
+$ENDCMP
+#
+$CMP MAX17502HAUD
+D MAX17502HAUD, Adjustable 1A, High Voltage Synchronus Step-Down Converter, TSSOP-10+EP
+K 1A Adjustable Step-Down Converter 60V
+F https://datasheets.maximintegrated.com/en/ds/MAX17502.pdf
+$ENDCMP
+#
 $CMP MAX5035AASA
 D MAX5035AASA, 3.3V 1A, High-Efficiency Step-Down DC-DC Converter, Vin 76V, High Temperature Grade, SO8
 K 3.3V 1A Step-Down Converter 76V Hi-Temp
