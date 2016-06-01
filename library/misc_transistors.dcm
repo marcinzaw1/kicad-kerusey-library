@@ -985,6 +985,132 @@ K Dual N-Channel MOSFET Logic Level
 F http://www.fairchildsemi.com/ds/FD/FDG1024NZ.pdf
 $ENDCMP
 #
+$CMP FDMS8050
+D FDMS8050, 30V Vds, 55A Id, 0.65mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS8050.pdf
+$ENDCMP
+#
+$CMP FDMS8050ET30
+D FDMS8050ET30, 30V Vds, 55A Id, 0.65mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS8050ET30.pdf
+$ENDCMP
+#
+$CMP FDMS8350L
+D FDMS8350L, 40V Vds, 47A Id, 0.85mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS8350L.pdf
+$ENDCMP
+#
+$CMP FDMS8350LET40
+D FDMS8350LET40, 40V Vds, 49A Id, 0.85mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench-mosfet mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS8350LET40.pdf
+$ENDCMP
+#
+$CMP FDMS86150
+D FDMS86150, 100V Vds, 16A Id, 4.85mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86150.pdf
+$ENDCMP
+#
+$CMP FDMS86150ET100
+D FDMS86150ET100, 100V Vds, 16A Id, 4.85mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench-mosfet mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86150ET100.pdf
+$ENDCMP
+#
+$CMP FDMS86152
+D FDMS86152, 100V Vds, 14A Id, 6mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86152.pdf
+$ENDCMP
+#
+$CMP FDMS86202
+D FDMS86202, 120V Vds, 13.5A Id, 7.2mΩ Rds, N-Channel Shielded Gate PowerTrench MOSFET, SON-8
+K shielded-gate-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86202.pdf
+$ENDCMP
+#
+$CMP FDMS86202ET120
+D FDMS86202ET120, 120V Vds, 13.5A Id, 7.2mΩ Rds, N-Channel Shielded Gate PowerTrench MOSFET, SON-8
+K shielded-gate-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86202ET120.pdf
+$ENDCMP
+#
+$CMP FDMS86255
+D FDMS86255, 150V Vds, 10A Id, 12.4mΩ Rds, N-Channel Shielded Gate PowerTrench MOSFET, SON-8
+K shielded-gate-powertrench-mosfet mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86255.pdf
+$ENDCMP
+#
+$CMP FDMS86255ET150
+D FDMS86255ET150, 150V Vds, 10A Id, 1.35mΩ Rds, N-Channel Shielded Gate PowerTrench MOSFET, SON-8
+K shielded-gate-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86255ET150.pdf
+$ENDCMP
+#
+$CMP FDMS86350
+D FDMS86350, 80V Vds, 25A Id, 2.4mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86350.pdf
+$ENDCMP
+#
+$CMP FDMS86350ET80
+D FDMS86350ET80, 80V Vds, 25A Id, 2.4mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86350ET80.pdf
+$ENDCMP
+#
+$CMP FDMS86550
+D FDMS86550, 60V Vds, 32A Id, 1.65mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86550.pdf
+$ENDCMP
+#
+$CMP FDMS86550ET60
+D FDMS86550ET60, 60V Vds, 32A Id, 1.65mΩ Rds, N-Channel PowerTrench MOSFET, SON-8
+K powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS86550ET60.pdf
+$ENDCMP
+#
+$CMP FDMT800100DC
+D FDMT800100DC, 100V Vds, 24A Id, 2.95mΩ Rds, N-Channel Dual Cool PowerTrench MOSFET, SON-8
+K dual-cool-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMT800100DC.pdf
+$ENDCMP
+#
+$CMP FDMT800120DC
+D FDMT800120DC, 120V Vds, 20A Id, 4.2mΩ Rds, N-Channel Dual cool PowerTrench MOSFET, SON-8
+K dual-cool-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMT800120DC.pdf
+$ENDCMP
+#
+$CMP FDMT800150DC
+D FDMT800150DC, 150V Vds, 15A Id, 6.5mΩ Rds, N-Channel Dual cool PowerTrench MOSFET, SON-8
+K dual-cool-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMT800150DC.pdf
+$ENDCMP
+#
+$CMP FDMT800152DC
+D FDMT800152DC, 150V Vds, 13A Id, 9.0mΩ Rds, N-Channel Dual Cool PowerTrench MOSFET, SON-8
+K dual-cool-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMT800152DC.pdf
+$ENDCMP
+#
+$CMP FDMT80060DC
+D FDMT80060DC, 60V Vds, 43A Id, Rds=1.1mΩ, N-Channel Dual Cool PowerTrench MOSFET, SON-8
+K dual-cool-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMT80060DC.pdf
+$ENDCMP
+#
+$CMP FDMT80080DC
+D FDMT80080DC, 80V Vds, 36A Id, 1.35mΩ Rds, N-Channel Dual Cool PowerTrench MOSFET, SON-8
+K dual-cool-powertrench mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMT80080DC.pdf
+$ENDCMP
+#
 $CMP FDS4953
 D FDS4953, 30V Vds, 5A Id, 55mOhm Rds, Dual P-Channel MOSFET, SO-8
 K Dual P-Channel MOSFET
@@ -1013,6 +1139,12 @@ $CMP FDS9926A
 D FDS9926A, 20V Vds, 6.5A Id, 30mOhm Rds, Dual N-Channel MOSFET, SO-8
 K Dual N-Channel MOSFET
 F http://www.fairchildsemi.com/ds/FD/FDS9926A.pdf
+$ENDCMP
+#
+$CMP IPT012N08N5
+D IPT012N08N5, 80V Vds, 300A Id, 1.2mOhm Rds, N-Channel MOSFET, PG-HSOF-8-1 
+K N-Channel MOSFET
+F http://www.infineon.com/dgdl/Infineon-IPT012N08N5-DS-v02_01-EN.pdf
 $ENDCMP
 #
 $CMP IRF5305
