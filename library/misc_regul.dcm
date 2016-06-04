@@ -1300,4 +1300,46 @@ D SPX2920U-5.0, 400mA Low drop-out regulator, Fixed Output 5V, TO-220
 K REGULATOR LDO 5V
 $ENDCMP
 #
+$CMP SPX5205M5-L-1-2/TR
+D SPX5205M5-L-1-2/TR, 150mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SOT-23-5
+K 150mA Low-Noise LDO
+F https://www.exar.com/content/document.ashx?id=618
+$ENDCMP
+#
+$CMP SPX5205M5-L-1-8/TR
+D SPX5205M5-L-1-8/TR, 150mA Low Dropout Voltage Regulator, Fixed Output 1.8V, SOT-23-5
+K 150mA Low-Noise LDO
+F https://www.exar.com/content/document.ashx?id=618
+$ENDCMP
+#
+$CMP SPX5205M5-L-2-5/TR
+D SPX5205M5-L-2-5/TR, 150mA Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-23-5
+K 150mA Low-Noise LDO
+F https://www.exar.com/content/document.ashx?id=618
+$ENDCMP
+#
+$CMP SPX5205M5-L-3-0/TR
+D SPX5205M5-L-3-0/TR, 150mA Low Dropout Voltage Regulator, Fixed Output 3V, SOT-23-5
+K 150mA Low-Noise LDO
+F https://www.exar.com/content/document.ashx?id=618
+$ENDCMP
+#
+$CMP SPX5205M5-L-3-3/TR
+D SPX5205M5-L-3-3/TR, 150mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5
+K 150mA Low-Noise LDO
+F https://www.exar.com/content/document.ashx?id=618
+$ENDCMP
+#
+$CMP SPX5205M5-L-5-0/TR
+D SPX5205M5-L-5-0/TR, 150mA Low Dropout Voltage Regulator, Fixed Output 5.0V, SOT-23-5
+K 150mA Low-Noise LDO
+F https://www.exar.com/content/document.ashx?id=618
+$ENDCMP
+#
+$CMP SPX5205M5-L/TR
+D SPX5205M5-L/TR, 150mA Low Noise LDO Regulator, Adjustable Output, SOT-23-5
+K 150mA Low-Noise LDO
+F https://www.exar.com/content/document.ashx?id=618
+$ENDCMP
+#
 #End Doc Library

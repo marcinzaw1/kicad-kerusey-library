@@ -1,5 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCP2515-E/P
+D MCP2515-E/P, Standalone CAN Controller, SPI, DIP-18
+K CAN Conroller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP MCP2515-E/SO
+D MCP2515-E/SO, Standalone CAN Controller, SPI, SOIC-18
+K CAN Conroller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP MCP2515-E/ST
+D MCP2515-E/ST, Standalone CAN Controller, SPI, TSSOP-20
+K CAN Conroller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
 $CMP MCP2551-I/P
 D MCP2551-I/P, High-Speed CAN Transceiver, PDIP8
 K High-Speed CAN Transceiver
