@@ -1386,6 +1386,78 @@ K AVR 8bit Microcontroller tinyAVR
 F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
 $ENDCMP
 #
+$CMP ATTINY102-M7R
+D ATTINY102-M7R, UDFN-8 (2x3mm), 1024B Flash, 32B SRAM, ADC, UART
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY102-M8R
+D ATTINY102-M8R, UDFN-8 (2x3mm), 1024B Flash, 32B SRAM, ADC, UART
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY102-SSFR
+D ATTINY102-SSFR, SO-8, 1024B Flash, 32B SRAM, ADC, UART
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY102-SSNR
+D ATTINY102-SSNR, SO-8, 1024B Flash, 32B SRAM, ADC, UART
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY102F-M7R
+D ATTINY102F-M7R, UDFN-8 (2x3mm), 1024B Flash, 32B SRAM, ADC, UART, Fast Start
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY102F-M8R
+D ATTINY102F-M8R, UDFN-8 (2x3mm), 1024B Flash, 32B SRAM, ADC, UART, Fast Start
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY102F-SSFR
+D ATTINY102F-SSFR, SO-8, 1024B Flash, 32B SRAM, ADC, UART, Fast Start
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY102F-SSNR
+D ATTINY102F-SSNR, SO-8, 1024B Flash, 32B SRAM, ADC, UART, Fast Start
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY104-SSFR
+D ATTINY104-SSFR, SO-14, 1024B Flash, 32B SRAM, ADC, UART
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY104-SSNR
+D ATTINY104-SSNR, SO-14, 1024B Flash, 32B SRAM, ADC, UART
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY104F-SSFR
+D ATTINY104F-SSFR, SO-14, 1024B Flash, 32B SRAM, ADC, UART, Fast Start
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
+$CMP ATTINY104F-SSNR
+D ATTINY104F-SSNR, SO-14, 1024B Flash, 32B SRAM, ADC, UART, Fast Start
+K AVR 8bit Microcontroller TinyAVR
+F http://www.atmel.com/Images/Atmel-42505-8-bit-AVR-Microcontroller-ATtiny102-ATtiny104_Summary.pdf
+$ENDCMP
+#
 $CMP ATTINY11-P
 D ATTINY11, PDIP8, 1k Flash, No SRAM, No EEPROM
 K AVR 8bit Microcontroller tinyAVR
