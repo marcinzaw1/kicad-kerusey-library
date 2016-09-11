@@ -5,6 +5,16 @@ D EABC80, Tripple Diode and Triode
 K Tripple Diode Triode Valve
 $ENDCMP
 #
+$CMP CK548DX
+D CK548DX, Subminiature Pentode
+K Single Pentode Valve
+$ENDCMP
+#
+$CMP CK6418
+D CK6418, Subminiature Pentode
+K Single Pentode Valve
+$ENDCMP
+#
 $CMP EABC80
 D EABC80, Tripple Diode and Triode
 K Tripple Diode Triode Valve
