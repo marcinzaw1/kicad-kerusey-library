@@ -21,6 +21,21 @@ D Universal Asynchronous Receiver/Transmitter, PDIP-28
 K UART Serial Interface
 $ENDCMP
 #
+$CMP 8253
+D 8253, Triple Channel Timer/Counter, PDIP-28
+K Timer Counter
+$ENDCMP
+#
+$CMP 8254
+D 8254, Triple Channel Timer/Counter, PDIP-28
+K Timer Counter
+$ENDCMP
+#
+$CMP 8255
+D 8255, Paralell Pheripherial Interface, PDIP-40
+K PPI
+$ENDCMP
+#
 $CMP 82720
 D Graphics Display Controller, PDIP-40
 K Graphics Controller
