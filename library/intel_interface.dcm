@@ -12,7 +12,27 @@ F http://www.ti.com/lit/ds/symlink/pc16550d.pdf
 $ENDCMP
 #
 $CMP 8250
+D PC8250, Universal Asynchronous Receiver/Transmitter, PDIP-40
+K 1ch UART
+$ENDCMP
+#
+$CMP 8250A
 D PC8250A, Universal Asynchronous Receiver/Transmitter, PDIP-40
+K 1ch UART
+$ENDCMP
+#
+$CMP 8250B
+D PC8250B, Universal Asynchronous Receiver/Transmitter, PDIP-40
+K 1ch UART
+$ENDCMP
+#
+$CMP 8251
+D PC8251, Universal Asynchronous Receiver/Transmitter, PDIP-28
+K 1ch UART
+$ENDCMP
+#
+$CMP 8251A
+D PC8251A, Universal Asynchronous Receiver/Transmitter, PDIP-28
 K 1ch UART
 $ENDCMP
 #
