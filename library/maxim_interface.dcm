@@ -1,13 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP MAX13450EAUD
-D MAX13450EAUD+, 20Mbps RS485 Full-Duplex Transceiver with Integrated Switchable Termination, TSSOP14 w/ EP
+D MAX13450EAUD+, 20Mbps RS485 Full-Duplex Transceiver with Integrated Switchable Termination, TSSOP-14 w/ EP
 K RS485 Full Duplex
 F http://datasheets.maximintegrated.com/en/ds/MAX13450E-MAX13451E.pdf
 $ENDCMP
 #
 $CMP MAX13451EAUD
-D MAX13451EAUD+, 20Mbps RS485 Half-Duplex Transceiver with Integrated Switchable Termination, TSSOP14 w/ EP
+D MAX13451EAUD+, 20Mbps RS485 Half-Duplex Transceiver with Integrated Switchable Termination, TSSOP-14 w/ EP
 K RS485 Half Duplex
 F http://datasheets.maximintegrated.com/en/ds/MAX13450E-MAX13451E.pdf
 $ENDCMP
@@ -112,6 +112,36 @@ $CMP MAX31855TASA
 D MAX31855TASA, Cold Junction T-type Termocouple Interface, SPI, SO8
 K Cold Junction Termocouple Interface SPI
 F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX3221CAE
+D MAX3221CAE, RS232 Full-Duplex Transceiver with 15kV ESD protection, SSOP-16
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3223CAP
+D MAX3223CAP, RS232 Full-Duplex Transceiver with 15kV ESD protection, SSOP-16
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3223CPP
+D MAX3223CPP, RS232 Full-Duplex Transceiver with 15kV ESD protection, PDIP-16
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3223EAP
+D MAX3223EAP, RS232 Full-Duplex Transceiver with 15kV ESD protection, SSOP-16
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3223EPP
+D MAX3223EPP, RS232 Full-Duplex Transceiver with 15kV ESD protection, PDIP-16
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
 $ENDCMP
 #
 $CMP MAX481CPA
