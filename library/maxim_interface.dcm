@@ -132,6 +132,12 @@ K RS232 Level Shifter Full Duplex
 F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
 $ENDCMP
 #
+$CMP MAX3223CUP
+D MAX3223CUP, RS232 Full-Duplex Transceiver with 15kV ESD protection, TSSOP-16
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
 $CMP MAX3223EAP
 D MAX3223EAP, RS232 Full-Duplex Transceiver with 15kV ESD protection, SSOP-16
 K RS232 Level Shifter Full Duplex
@@ -140,6 +146,48 @@ $ENDCMP
 #
 $CMP MAX3223EPP
 D MAX3223EPP, RS232 Full-Duplex Transceiver with 15kV ESD protection, PDIP-16
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3223EUP
+D MAX3223EUP, RS232 Full-Duplex Transceiver with 15kV ESD protection, TSSOP-16
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3243CAI
+D MAX3243CAI, RS232 Full-Duplex Transceiver with 15kV ESD protection, SSOP-28
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3243CUI
+D MAX3243CUI, RS232 Full-Duplex Transceiver with 15kV ESD protection, TSSOP-28
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3243CWI
+D MAX3243CWI, RS232 Full-Duplex Transceiver with 15kV ESD protection, SOIC-28
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3243EAI
+D MAX3243EAI, RS232 Full-Duplex Transceiver with 15kV ESD protection, SSOP-28
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3243EUI
+D MAX3243EUI, RS232 Full-Duplex Transceiver with 15kV ESD protection, TSSOP-28
+K RS232 Level Shifter Full Duplex
+F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
+$ENDCMP
+#
+$CMP MAX3243EWI
+D MAX3243EWI, RS232 Full-Duplex Transceiver with 15kV ESD protection, SOIC-28
 K RS232 Level Shifter Full Duplex
 F http://pdfserv.maximintegrated.com/en/ds/MAX3221-MAX3243.pdf
 $ENDCMP
