@@ -45,8 +45,8 @@
   (fp_line (start 3.81 -3.683) (end 3.81 3.556) (layer F.SilkS) (width 0.254))
   (fp_line (start 3.81 3.556) (end -3.81 3.556) (layer F.SilkS) (width 0.254))
   (fp_line (start -3.81 3.556) (end -3.81 -3.683) (layer F.SilkS) (width 0.254))
-  (pad 1 thru_hole circle (at -1.905 0) (size 2.70002 2.70002) (drill 1.09982) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 1.905 0) (size 2.70002 2.70002) (drill 1.09982) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -1.905 0) (size 2.7 2.7) (drill 1.1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 1.905 0) (size 2.7 2.7) (drill 1.1) (layers *.Cu *.Mask))
   (model walter/conn_screw/mors_2p.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.75 0.75 0.75))
