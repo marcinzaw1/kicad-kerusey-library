@@ -222,6 +222,11 @@ D Diode Shottky
 K Diode Rectifier Shottky Device
 $ENDCMP
 #
+$CMP SPARK_GAP
+D Spark Gap
+K V Spark Gap Protection Device
+$ENDCMP
+#
 $CMP SPST
 D Single Button Switch
 K Switch Device

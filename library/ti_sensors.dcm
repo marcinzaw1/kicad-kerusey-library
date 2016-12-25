@@ -36,4 +36,16 @@ K Current Monitor 100V/V
 F http://www.ti.com/lit/ds/symlink/ina193.pdf
 $ENDCMP
 #
+$CMP TMP20AIDCK
+D TMP20AIDCK, Low Power Temperature Sensor, 2.5deg Accuracy, SC-70
+K Temperature Sensor Analog
+F http://www.ti.com/lit/ds/sbos466/sbos466.pdf
+$ENDCMP
+#
+$CMP TMP20AIDRL
+D TMP20AIDRL, Low Power Temperature Sensor, 2.5deg Accuracy, SOT-563-6
+K Temperature Sensor Analog
+F http://www.ti.com/lit/ds/sbos466/sbos466.pdf
+$ENDCMP
+#
 #End Doc Library
