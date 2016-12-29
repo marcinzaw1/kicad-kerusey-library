@@ -126,6 +126,18 @@ K Flash-Based 8-Bit Microcontroller XLP
 F http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf
 $ENDCMP
 #
+$CMP PIC18(L)F2480-I/ML
+D PIC18(L)F2480-I/ML, 16K Flash, 768B SRAM, 256 EEPROM, ECAN, QFN-28-EP
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
+$ENDCMP
+#
+$CMP PIC18(L)F2480-I/SP
+D PIC18(L)F2480-I/SP, 16K Flash, 768B SRAM, 256 EEPROM, ECAN, SPDIP-20
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
+$ENDCMP
+#
 $CMP PIC18(L)F2550-I/SO
 D PIC18(L)F2550, 32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, SOIC28
 K Flash-Based 8-Bit Microcontroller XLP
@@ -136,6 +148,18 @@ $CMP PIC18(L)F2550-I/SP
 D PIC18(L)F2550, 32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, SPDIP28
 K Flash-Based 8-Bit Microcontroller XLP
 F http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf
+$ENDCMP
+#
+$CMP PIC18(L)F2580-I/ML
+D PIC18(L)F2580-I/ML, 32K Flash, 1536B SRAM, 256 EEPROM, ECAN, QFN-28-EP
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
+$ENDCMP
+#
+$CMP PIC18(L)F2580-I/SP
+D PIC18(L)F2580-I/SP, 32K Flash, 1536B SRAM, 256 EEPROM, ECAN, SPDIP-20
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
 $ENDCMP
 #
 $CMP PIC18(L)F25K80-I/ML
@@ -252,6 +276,24 @@ K Flash-Based 8-Bit Microcontroller CAN
 F http://ww1.microchip.com/downloads/en/DeviceDoc/41159e.pdf
 $ENDCMP
 #
+$CMP PIC18(L)F4480-I/ML
+D PIC18(L)F4480-I/ML, 16K Flash, 768B SRAM, 256 EEPROM, ECAN, QFN-44
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
+$ENDCMP
+#
+$CMP PIC18(L)F4480-I/P
+D PIC18(L)F4480-I/P, 16K Flash, 768B SRAM, 256 EEPROM, ECAN, PDIP-40
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
+$ENDCMP
+#
+$CMP PIC18(L)F4480-I/PT
+D PIC18(L)F4480-I/PT, 16K Flash, 768B SRAM, 256 EEPROM, ECAN, TQFP-44
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
+$ENDCMP
+#
 $CMP PIC18(L)F44J10-I/P
 D PIC18(L)F44J10, 16K Flash, 1K SRAM, ADC, DIP40
 K Flash-Based 8-Bit Microcontroller
@@ -292,6 +334,24 @@ $CMP PIC18(L)F458-I/P
 D PIC18(L)F458, 32K Flash, 1536B SRAM, 256 EEPROM, CAN, DIP40
 K Flash-Based 8-Bit Microcontroller CAN
 F http://ww1.microchip.com/downloads/en/DeviceDoc/41159e.pdf
+$ENDCMP
+#
+$CMP PIC18(L)F4580-I/ML
+D PIC18(L)F4580-I/ML, 32K Flash, 1536B SRAM, 256 EEPROM, ECAN, QFN-44
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
+$ENDCMP
+#
+$CMP PIC18(L)F4580-I/P
+D PIC18(L)F4580-I/P, 32K Flash, 1536B SRAM, 256 EEPROM, ECAN, PDIP-40
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
+$ENDCMP
+#
+$CMP PIC18(L)F4580-I/PT
+D PIC18(L)F4580-I/PT, 32K Flash, 1536B SRAM, 256 EEPROM, ECAN, TQFP-44
+K Flash-Based 8-Bit Microcontroller CAN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf
 $ENDCMP
 #
 $CMP PIC18(L)F45J10-I/P
