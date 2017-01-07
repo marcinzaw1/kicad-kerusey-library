@@ -480,6 +480,12 @@ K Miniature Step-Up Boost Flyback SEPIC Voltage Regulator
 F http://www.ti.com/lit/ds/symlink/lm2735.pdf
 $ENDCMP
 #
+$CMP LM27762DSS
+D LM27762DSS, Low-Noise Dual Voltage Charge Pump with LDO, WSON-12-EP
+K Dual Voltage DC-DC LDO
+F http://www.ti.com/lit/ds/symlink/lm27762.pdf
+$ENDCMP
+#
 $CMP LM3407MY
 D LM3407MY, LED Lighting CC Floating Buck Switching Regulator, eMSOP-8
 K LED Step-Down Switching Regulator
