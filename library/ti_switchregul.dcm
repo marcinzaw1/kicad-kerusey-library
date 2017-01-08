@@ -768,4 +768,16 @@ K TPS62208DBV Step-Down DC-DC Converter SOT23-5
 F http://www.ti.com/lit/ds/symlink/tps62201.pdf
 $ENDCMP
 #
+$CMP TPS65132WRVC
+D TPS65132WRVC, 5.4V 40mA Positive and Negtive Switching Regulator, WQFN-20-EP
+K Dual Power Supply DC-DC 5.4V 40mA
+F http://www.ti.com/lit/ds/symlink/tps65132.pdf
+$ENDCMP
+#
+$CMP TPS65133DPD
+D TPS65133DPD, 5V 1% 250mA Positive and Negtive Switching Regulator, WSON-12-EP
+K Dual Power Supply DC-DC 5V 250mA
+F http://www.ti.com/lit/ds/symlink/tps65133.pdf
+$ENDCMP
+#
 #End Doc Library
