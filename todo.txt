@@ -1,31 +1,29 @@
- Name			Imp.	Status			My symbols
+ Name               Imp.    Status          My symbols
 ----------------------------------------------------------------------------------
- 74xx.lib			in progress
+ 74xx.lib                   in progress
  analog_switches.lib
- audio.lib			in progress		yes
+ audio.lib                  in progress     yes
  brooktre.lib
  cmos4000.lib
- cmos_ieee.lib			leave as is?
+ cmos_ieee.lib              leave as is?
  conn.lib
  contrib.lib
- display.lib			in progress		yes
+ display.lib                in progress     yes
  dsp.lib
  gennum.lib
- graphic.lib		
- hc11.lib
- interface.lib		!!				yes
+ graphic.lib
+ interface.lib      !!                      yes
  linear.lib
- memory.lib			in progress
- msp430.lib		!!!!!!	base finished
-				rework includes
- motorola.lib
+ memory.lib                 in progress
+ msp430.lib         !!!!!!  base finished
+                            rework includes
  philips.lib
  siliconi.lib
  special.lib
- ttl_ieee.lib			leave as is?
+ ttl_ieee.lib               leave as is?
  video.lib
  xilinx.lib
 
 Notes: 
- elec-unifil.lib		not included
- pspice.lib			not included
+ elec-unifil.lib            not included
+ pspice.lib                 not included
