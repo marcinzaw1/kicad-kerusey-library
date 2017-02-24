@@ -12,6 +12,36 @@ K Protection Voltage Controller
 F http://www.ti.com.cn/cn/lit/ds/symlink/lm5060-q1.pdf
 $ENDCMP
 #
+$CMP TPS26600PWP
+D TPS26600PWP, 2A iFuse with Reverse Polarity Protection, HTSSOP-16-EP
+K 2A iFuse Electronic Fuse
+F http://www.ti.com/lit/ds/symlink/tps2660.pdf
+$ENDCMP
+#
+$CMP TPS26600RHF
+D TPS26600RHF, 2A iFuse with Reverse Polarity Protection, VQFN-24-EP
+K 2A iFuse Electronic Fuse
+F http://www.ti.com/lit/ds/symlink/tps2660.pdf
+$ENDCMP
+#
+$CMP TPS26601RHF
+D TPS26601RHF, 2A iFuse with Reverse Polarity Protection, VQFN-24-EP
+K 2A iFuse Electronic Fuse
+F http://www.ti.com/lit/ds/symlink/tps2660.pdf
+$ENDCMP
+#
+$CMP TPS26602PWP
+D TPS26602PWP, 2A iFuse with Reverse Polarity Protection, HTSSOP-16-EP
+K 2A iFuse Electronic Fuse
+F http://www.ti.com/lit/ds/symlink/tps2660.pdf
+$ENDCMP
+#
+$CMP TPS26602RHF
+D TPS26602RHF, 2A iFuse with Reverse Polarity Protection, VQFN-24-EP
+K 2A iFuse Electronic Fuse
+F http://www.ti.com/lit/ds/symlink/tps2660.pdf
+$ENDCMP
+#
 $CMP TPS65217ARSL
 D TPS65217ARSL, Power Management Controller for Battery Powered Systems, 1.8/3.3/1.1V, VQFN-48
 K PMIC Power Controller Battery
