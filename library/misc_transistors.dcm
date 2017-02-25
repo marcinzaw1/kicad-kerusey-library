@@ -174,6 +174,12 @@ K BC817 BC337 Equivalent
 F http://www.fairchildsemi.com/ds/BC/BC817.pdf
 $ENDCMP
 #
+$CMP BC817DS
+D BC817DS, 45V Vce, 0.5A Ic, Dual NPN, SOT-457
+K BC817DS Dual NPN
+F http://assets.nexperia.com/documents/data-sheet/BC817DS.pdf
+$ENDCMP
+#
 $CMP BC818-40
 D BC818-40, 25V Vce, 0.8A Ic, NPN, SOT-23
 K BC818 BC337 Equivalent
@@ -577,6 +583,24 @@ $CMP BUZ11
 D BUZ11, 50V Vds, 30A Id, N-Channel Power MOSFET, TO220
 K N-Channel Power MOSFET
 F http://www.fairchildsemi.com/ds/BU/BUZ11.pdf
+$ENDCMP
+#
+$CMP CSD17577Q3A
+D CSD17577Q3A, HexFET N-MOS Power Mosfet, Vds 30V, Rdson 0.004R, Id 35A, VSON-8 (3mmx3mm)
+K HexFET Power Mosfet N-MOS
+F http://www.ti.com/lit/ds/symlink/csd17577q3a.pdf
+$ENDCMP
+#
+$CMP CSD17578Q3A
+D CSD17578Q3A, HexFET N-MOS Power Mosfet, Vds 30V, Rdson 0.006R, Id 20A, VSON-8 (3mmx3mm)
+K HexFET Power Mosfet N-MOS
+F http://www.ti.com/lit/ds/symlink/csd17578q3a.pdf
+$ENDCMP
+#
+$CMP CSD17579Q3A
+D CSD17579Q3A, HexFET N-MOS Power Mosfet, Vds 30V, Rdson 0.008R, Id 20A, VSON-8 (3mmx3mm)
+K HexFET Power Mosfet N-MOS
+F http://www.ti.com/lit/ds/symlink/csd17579q3a.pdf
 $ENDCMP
 #
 $CMP DTA113T
