@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ARM-JTAG-20
+D Standard IDC20 Male Connector, ARM legacy JTAG interface
+K IDC20 Male Connector ARM JTAG
+F http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf
+$ENDCMP
+#
 $CMP MKE02Z16VFM4
 D MKE02Z16VFM4, 16KB FLASH, 2KB SRAM, EEPROM, 40MHz ARM Cortex-M0+ Microcontroller, QFN-32
 K ARM Cortex-M0+ MCU Kinetis KE02

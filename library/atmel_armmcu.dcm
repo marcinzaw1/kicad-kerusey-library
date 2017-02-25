@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ARM-JTAG-20
+D Standard IDC20 Male Connector, ARM legacy JTAG interface
+K IDC20 Male Connector ARM JTAG
+F http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf
+$ENDCMP
+#
 $CMP ATSAMD09C13A-SS
 D ATSAMD09C13A-SS, SOIC14, 8K Flash, 4K RAM, 48MHz, CortexM0+
 K ARM 32bit Microcontroller 48MHz CortexM0+

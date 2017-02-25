@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ARM-JTAG-20
+D Standard IDC20 Male Connector, ARM legacy JTAG interface
+K IDC20 Male Connector ARM JTAG
+F http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf
+$ENDCMP
+#
 $CMP LPC1102UK
 D LPC1102UK, 32-bit ARM Cortex-M0 microcontroller, 32kB Flash, 8kB SRAM, UART, SPI, ADC 5ch
 K ARM, 32bit, CortexM0, M0, NXP, Microcontroller

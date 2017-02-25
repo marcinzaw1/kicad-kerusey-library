@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ARM-JTAG-20
+D Standard IDC20 Male Connector, ARM legacy JTAG interface
+K IDC20 Male Connector ARM JTAG
+F http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf
+$ENDCMP
+#
 $CMP STM32F030C6
 D STM32F030C6, 32-bit ARM Cortex-M0 Microcontroller, 48MHz, 32KB Flash, 4KB RAM, RTC, LQFP48
 K STM32 ARM Cortex-M0 MCU
