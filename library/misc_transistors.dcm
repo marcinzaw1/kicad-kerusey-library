@@ -216,6 +216,36 @@ K BCP51 PNP Transistor
 F http://www.fairchildsemi.com/ds/BC/BCP51.pdf
 $ENDCMP
 #
+$CMP BCV61B
+D BCV61B, 30V Vce, 0.1A Ic, Dual NPN, Small Signal Transistor, SOT-143
+K BCV61 Dual NPN Transistor
+F http://www.infineon.com/dgdl/Infineon-BCV61-DS-v01_01-en.pdf
+$ENDCMP
+#
+$CMP BCV61C
+D BCV61C, 30V Vce, 0.1A Ic, Dual NPN, Small Signal Transistor, SOT-143
+K BCV61 Dual NPN Transistor
+F http://www.infineon.com/dgdl/Infineon-BCV61-DS-v01_01-en.pdf
+$ENDCMP
+#
+$CMP BCV62A
+D BCV62A, 30V Vce, 0.1A Ic, Dual PNP, Small Signal Transistor, SOT-143
+K BCV62 Dual PNP Transistor
+F http://www.infineon.com/dgdl/Infineon-BCV62-DS-v01_01-en.pdf
+$ENDCMP
+#
+$CMP BCV62B
+D BCV62B, 30V Vce, 0.1A Ic, Dual PNP, Small Signal Transistor, SOT-143
+K BCV62 Dual PNP Transistor
+F http://www.infineon.com/dgdl/Infineon-BCV62-DS-v01_01-en.pdf
+$ENDCMP
+#
+$CMP BCV62C
+D BCV62C, 30V Vce, 0.1A Ic, Dual PNP, Small Signal Transistor, SOT-143
+K BCV62 Dual PNP Transistor
+F http://www.infineon.com/dgdl/Infineon-BCV62-DS-v01_01-en.pdf
+$ENDCMP
+#
 $CMP BCX51
 D BCX51, 45V Vce, 1A Ic, PNP Medium Power Transistor, SOT-89
 K BCX51 PNP Transistor
@@ -1213,7 +1243,7 @@ K N-Channel IGBT Power Transistor
 F http://www.irf.com/product-info/datasheets/data/irg4pf50w.pdf
 $ENDCMP
 #
-$CMP IRLML6244TRPbF
+$CMP IRLML6244TRPBF
 D IRLML6244TRPbF, 20V Vds, 5A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET Logic Level
 F http://www.infineon.com/dgdl/irlml6244pbf.pdf?fileId=5546d462533600a4015356686fed261f
