@@ -1369,6 +1369,18 @@ K N-Channel MOSFET
 F http://www.fairchildsemi.com/ds/BS/BS170.pdf
 $ENDCMP
 #
+$CMP MMBT3904
+D MMBT3904, 40V Vce, 0.2A Ic, NPN, SOT-23
+K 2N3904 Equivalent
+F http://assets.nexperia.com/documents/data-sheet/MMBT3904.pdf
+$ENDCMP
+#
+$CMP MMBT3906
+D MMBT3906, 40V Vce, 0.2A Ic, PNP, SOT-23
+K 2N3906 Equivalent
+F http://assets.nexperia.com/documents/data-sheet/MMBT3906.pdf
+$ENDCMP
+#
 $CMP MPSA42
 D MPSA42, 300V Vce, 0.5A Ic, NPN High Voltage Transistor,TO-92
 K MPSA42 NPN High Voltage Transistor
