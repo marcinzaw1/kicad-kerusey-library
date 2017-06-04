@@ -103,6 +103,12 @@ K DC Optocoupler IGBT MOSFET Driver
 F http://toshiba.semicon-storage.com/info/docget.jsp?pid=TLP250&lang=en&type=datasheet
 $ENDCMP
 #
+$CMP TLP2770
+D TLP2770, SO6, DC Digital Optocoupler, Tp 60ns, Transfer Ratio 20Mb
+K DC Digital Optocoupler
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770
+$ENDCMP
+#
 $CMP TLP284-4
 D TLP284-4, SOP16, 4ch AC/DC Optocoupler, Vce 80V, CTR 50-100%
 K NPN AC DC 4ch Optocoupler
