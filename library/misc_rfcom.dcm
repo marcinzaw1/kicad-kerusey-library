@@ -40,4 +40,10 @@ K GSM GPRS Quad-Band SMS FAX
 F http://www.simcom.us/act_admin/supportfile/SIM900_HD_V1.01(091226).pdf
 $ENDCMP
 #
+$CMP SPBTLE-RF
+D SPBTLE-RF, Very Low Power Bluetooth Module, BLE 4.1, SPI
+K Bluetooth BLE Module
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/48/74/89/26/50/8d/4e/33/DM00184006.pdf/files/DM00184006.pdf/jcr:content/translations/en.DM00184006.pdf
+$ENDCMP
+#
 #End Doc Library
