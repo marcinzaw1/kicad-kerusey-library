@@ -555,6 +555,12 @@ K N-Channel MOSFET
 F http://www.fairchildsemi.com/ds/BS/BS170.pdf
 $ENDCMP
 #
+$CMP BSC010N04LS
+D BSC010N04LS, OptiMOS Power Mosfet, Logic Level, Vds 40V, Rdson 0.001R, Id 100A, TDSON-8FL (6mm x 5mm)
+K OptiMOS Mosfet N-MOS
+F https://www.infineon.com/dgdl/Infineon-BSC010N04LS-DS-v02_02-EN.pdf?fileId=db3a3043353fdc16013552c1c63647c4
+$ENDCMP
+#
 $CMP BSL316C
 D BSL316C, 30V Vds, 1.4A Id, Dual HEXFET MOSFET, TSOP-6
 K Dual HEXFET N-Channel P-Channel MOSFET
