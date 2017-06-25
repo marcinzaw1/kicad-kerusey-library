@@ -48,6 +48,30 @@ K RS232 UART Driver Receiver Interface
 F http://www.ti.com/lit/ds/symlink/gd75232.pdf
 $ENDCMP
 #
+$CMP ISO3080DW
+D ISO3080DW, Isolated RS422/485 Full-Duplex Interface, 200kbps, SOIC-16
+K RS422/485 Isolated Interface
+F http://www.ti.com/lit/ds/symlink/iso3086.pdf
+$ENDCMP
+#
+$CMP ISO3082DW
+D ISO3082DW, Isolated RS422/485 Half-Duplex Interface, 200kbps, SOIC-16
+K RS422/485 Isolated Interface
+F http://www.ti.com/lit/ds/symlink/iso3086.pdf
+$ENDCMP
+#
+$CMP ISO3086DW
+D ISO3086DW, Isolated RS422/485 Full-Duplex Interface, 20Mbps, SOIC-16
+K RS422/485 Isolated Interface
+F http://www.ti.com/lit/ds/symlink/iso3086.pdf
+$ENDCMP
+#
+$CMP ISO3088DW
+D ISO3088DW, Isolated RS422/485 Half-Duplex Interface, 20Mbps, SOIC-16
+K RS422/485 Isolated Interface
+F http://www.ti.com/lit/ds/symlink/iso3086.pdf
+$ENDCMP
+#
 $CMP XTR115U
 D XTR115U, 4-20mA Current Loop Transmitter, SO8
 K 4-20mA Current Loop Transmitter

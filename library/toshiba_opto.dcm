@@ -163,6 +163,12 @@ K Photo-Triac Opto Triac
 F http://www.semicon.toshiba.co.jp/docs/datasheet/en/Opto/TLP3021(S)_TLP3023(S)_en_datasheet_101001.pdf
 $ENDCMP
 #
+$CMP TLP3902
+D TLP3902, SO6, DC Photovoltanic Optocoupler, Vopen 7V
+K DC Photovoltanic Optocoupler
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=8567&prodName=TLP3902
+$ENDCMP
+#
 $CMP TLP627
 D TLP627, DIP4, DC Darlington Optocoupler, Vce 300V, CTR 1000%
 K NPN Darlington DC Optocoupler
