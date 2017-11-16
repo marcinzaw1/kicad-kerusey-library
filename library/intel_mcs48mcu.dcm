@@ -1,5 +1,20 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 8020
+D MCS-48 8-bit Microcontroller, 1K ROM, 64B RAM, DIP-20
+K MCS-48 uC Microcontroller
+$ENDCMP
+#
+$CMP 8021
+D MCS-48 8-bit Microcontroller, 1K ROM, 64B RAM, DIP-28
+K MCS-48 uC Microcontroller
+$ENDCMP
+#
+$CMP 8022
+D MCS-48 8-bit Microcontroller, 1KB (EP)ROM, 64B RAM, DIP-40
+K MCS-48 uC Microcontroller
+$ENDCMP
+#
 $CMP 8035
 D MCS-48 8-bit Microcontroller, No (EP)ROM, 64B RAM, DIP-40
 K MCS-48 uC Microcontroller
